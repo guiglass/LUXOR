@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## APS Luxor Documentation V1.0.0
 
-You can use the [editor on GitHub](https://github.com/guiglass/LUXOR/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You are invited to the [APS Discord](https://discord.com/invite/ErZcKaQ) - For tech support, tips, ideas, showcases and sharing/viewing community content or speaking with developers: https://discord.com/invite/ErZcKaQ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+More information can be found on the [Patreon](https://www.patreon.com/prepstudio) about page.
 
 ### Markdown
 
