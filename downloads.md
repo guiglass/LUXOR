@@ -1,9 +1,17 @@
 [< Main Page](https://github.com/guiglass/LUXOR/blob/gh-pages/index.md)
 
-## Downloads
+# Downloads
 
-![APS Luxor Download](/img/Luxor%20Logo%20Text.png)
-- APS Luxor (beta) V3.2.0
+<p align="center">
+  <img width="15%" height="15%" src="/Luxor Logo Text.png">
+</p>
+  
+<p align="center">
+  <b>APS Luxor (beta) V3.2.0</b>
+</p>
+
+## Other Downloads
+
 - [APS_SDK](https://github.com/guiglass/LUXOR/blob/gh-pages/APS_SDK.unitypackage?raw=true)
 - [Luxor Quest hand tracking addon.apk](http://www.mediafire.com/file/9b3fdc1n5i9v4n4/Luxor_Quest_finger_tracking.apk/file)
 
