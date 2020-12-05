@@ -6,9 +6,9 @@
   </a>
 </p>
 
-Creators are encouraged to join the [APS Discord](https://discord.com/invite/ErZcKaQ) - For tech support, latest updates, tips, ideas, showcases and sharing/viewing community content or speaking with developers.
+Creators are welcome to join the [APS Discord](https://discord.com/invite/ErZcKaQ) - For tech support, latest updates, tips, ideas, showcases and sharing/viewing community content or speaking with developers.
 
-In this documentation I will try to go over some of the features and techniques for using APS Luxor as a tool for creating motion capture recordings and exporting to Blender, as well as using it for live productions such as live avatar streaming, presentations and VTuber community.
+I will try to go over some of the features and techniques for getting started and using APS Luxor as a tool for creating motion capture in VR from custom avatars which then is auto imported to a Blender scene and can be ready for rendering within minutes of recording. Later I will also try to show examples of using Luxor for live productions such as streaming avatars, live presentations and VTuber community.
 
 - [Questions and Answers](/questions%20and%20answers.md)
 - [Minimum requirements](/requirements.md)
