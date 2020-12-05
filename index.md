@@ -1,7 +1,7 @@
 ## APS Luxor Documentation
 
 <p align="center">
-  <a href="">
+  <a href="/downloads.md">
      <img src="http://www.mediafire.com/file/hmec2ssggyngld3/Luxor+Logo+Text.png">
   </a>
 </p>
