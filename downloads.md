@@ -1,6 +1,6 @@
 [< Main Page](https://github.com/guiglass/LUXOR/blob/gh-pages/index.md)
 
-# Downloads
+# Download Latest Release
 
 <p align="center">
   <a href="">
