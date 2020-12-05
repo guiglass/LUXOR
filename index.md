@@ -18,8 +18,9 @@ In this documentation I will try to go over some of the features and techniques 
 - Exporting Mocap to Blender
 - Face Capture with the Luxor Sidekick IOS app
 - [Finger tracking using Quest 2 app](/quest%20finger%20tracking.md)
-- [APS SDK and creating custom avatars](/apssdk.md)
+- [APS SDK (creating custom avatars)](/apssdk.md)
 - Adding Custom Scenes
+- Adding Custom Props
 - License
 
 More information on the [Patreon](https://www.patreon.com/prepstudio) about page.
