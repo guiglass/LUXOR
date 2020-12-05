@@ -6,7 +6,7 @@ More information can be found on the [Patreon](https://www.patreon.com/prepstudi
 
 
 - Questions and Answers
-- Minimum requirements
+- [Minimum requirements](https://github.com/guiglass/LUXOR/blob/gh-pages/requirements.md)
 - Getting started
 - [Downloads Section](https://github.com/guiglass/LUXOR/blob/gh-pages/downloads.md)
 - Adding Custom Content
