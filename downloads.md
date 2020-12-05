@@ -3,7 +3,9 @@
 # Downloads
 
 <p align="center">
-  <img width="15%" height="15%" src="/Luxor Logo Text.png">
+  <a href="">
+     <img width="15%" height="15%" src="/Luxor Logo Text.png">
+  </a>
 </p>
   
 <p align="center">
