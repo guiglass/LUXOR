@@ -4,7 +4,7 @@
 
 
 - Q: Can I use Luxor without a HMD (connect my avatar to a head tracker)
-  - A: Yes, it is possible to connect the avatar to a head tracker without the need for an HMD. This can be acomplished by configuring a tracker to function as a head tracker in the Tracer Setup menu:
+  - Yes, it is possible to connect the avatar to a head tracker without the need for an HMD. This can be acomplished by configuring a tracker to function as a head tracker in the Tracer Setup menu:
   <p align="center">
   <a href="/img/tracker setup.png">
      <img width="15%" height="15%" src="/img/tracker setup.png">
@@ -12,5 +12,5 @@
   </p>
   
 - Q: Can Luxor be used with only an HMD and controllers?
-  - A: Yes, there is a basic locomotion system for animating the avatar's lower body when no feet or hip trackers are preset.
+  - Yes, there is a basic locomotion system for animating the avatar's lower body when no feet or hip trackers are preset.
 
