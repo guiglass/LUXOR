@@ -12,5 +12,5 @@
   </p>
   
 - Q: Can Luxor be used with only an HMD and controllers?
-  - Yes, there is a basic locomotion system for animating the avatar's lower body when no feet or hip trackers are preset.
+  - A: Yes, there is a basic locomotion system for animating the avatar's lower body when no feet or hip trackers are preset.
 
