@@ -2,7 +2,7 @@
 ![alt text](http://www.mediafire.com/file/hmec2ssggyngld3/Luxor+Logo+Text.png)
 
 
-All creators are encouraged to join the [APS Discord](https://discord.com/invite/ErZcKaQ) - For tech support, latest updates, tips, ideas, showcases and sharing/viewing community content or speaking with developers.
+Creators are encouraged to join the [APS Discord](https://discord.com/invite/ErZcKaQ) - For tech support, latest updates, tips, ideas, showcases and sharing/viewing community content or speaking with developers.
 
 In this documentation I will try to go over some of the features and techniques for using APS Luxor as a tool for creating motion capture recordings and exporting to Blender, and for live productions such as live streaming, giving presentations or for VTuber community.
 
