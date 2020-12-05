@@ -1,18 +1,18 @@
-## APS Luxor Documentation V1.0.0
+## APS Luxor Documentation
 
 You are invited to the [APS Discord](https://discord.com/invite/ErZcKaQ) - For tech support, tips, ideas, showcases and sharing/viewing community content or speaking with developers.
 
-More information can be found on the [Patreon](https://www.patreon.com/prepstudio) about page.
-
+In this documentation I will try to go over some of the features and techniques for using APS Luxor as a tool for creating motion capture recordings and exporting to Blender, and for live productions such as live streaming, giving presentations or for VTuber community.
 
 - Questions and Answers
 - [Minimum requirements](https://github.com/guiglass/LUXOR/blob/gh-pages/requirements.md)
 - Getting started
-- Recording Mocap
-- Creating Custom Avatars
-- Exporting To Blender
-- Adding Face Capture using the Luxor Sidekick IOS app
-- Adding finger tracking using Luxor Quest app
 - [Downloads Section](https://github.com/guiglass/LUXOR/blob/gh-pages/downloads.md)
-- Adding Custom Content
+- Recording Mocap
+- Exporting Mocap to Blender
+- Face Capture with the Luxor Sidekick IOS app
+- Optical finger tracking using the Luxor Quest 2 app
+- Adding Custom Avatars, Props and Scenes
 - License
+
+More information on the [Patreon](https://www.patreon.com/prepstudio) about page.
