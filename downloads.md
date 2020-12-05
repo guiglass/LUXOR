@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="">
-     <img width="15%" height="15%" src="/Luxor Logo Text.png">
+     <img width="15%" height="15%" src="/img/Luxor Logo Text.png">
   </a>
 </p>
   
