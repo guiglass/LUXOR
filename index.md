@@ -14,7 +14,7 @@ In this documentation I will try to go over some of the features and techniques 
 - Recording Mocap
 - Exporting Mocap to Blender
 - Face Capture with the Luxor Sidekick IOS app
-- [Finger tracking using Luxor Quest 2 app](/quest%20finger%20tracking.md)
+- [Finger tracking using Quest 2 app](/quest%20finger%20tracking.md)
 - Adding Custom Avatars, Props and Scenes
 - License
 
