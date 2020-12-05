@@ -1,6 +1,10 @@
 ## APS Luxor Documentation
-![alt text](http://www.mediafire.com/file/hmec2ssggyngld3/Luxor+Logo+Text.png)
 
+<p align="center">
+  <a href="">
+     <img src="http://www.mediafire.com/file/hmec2ssggyngld3/Luxor+Logo+Text.png">
+  </a>
+</p>
 
 Creators are encouraged to join the [APS Discord](https://discord.com/invite/ErZcKaQ) - For tech support, latest updates, tips, ideas, showcases and sharing/viewing community content or speaking with developers.
 
