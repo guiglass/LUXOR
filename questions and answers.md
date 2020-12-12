@@ -5,7 +5,7 @@
    <img src="http://i.huffpost.com/gen/749263/original.jpg"/>
    <a class="lightbox-close" href="#"></a>
 </div>
-
+/img/tracker setup.png" target="_blank
 
 [< Main Page](https://github.com/guiglass/LUXOR/blob/gh-pages/index.md)
 
@@ -27,7 +27,7 @@
   <details><summary>Yes, Avatars may be connected to head trackers instead.</summary>
 	It is possible to connect the avatar to a head tracker without the need for an HMD. This can be acomplished by configuring a tracker to function as a head tracker in the Tracer Setup menu:
 	<p align="center">
-	<a href="/img/tracker setup.png" target="_blank">
+	<a href="#">
 	 <img width="15%" height="15%" src="/img/tracker setup.png">
 	</a>
 	</p>
