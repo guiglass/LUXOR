@@ -64,11 +64,22 @@
   </a>
   </p>
 - Q: **What versions of Unity and Blender should I be using?**
-
+  - It is recomended to use Unity 2019.4 with the APS_SDK however other versions are compatible and the APS_SDK can be used with Unity 2018.4.20f1 (for backwards compatibility with vrchat).
+  - Using Blender 2.8 is recomended, however 2.79 is mostly compatible.
+  
 - Q: **Can I import a custom avatar into Luxor?**
-
+  - Yes, the APS_SDK allows adding avatars to Luxor using modles from .fbx or .blends files.
+  
 - Q: **What types of avatars are supported?**
-
+	## Compatible Skeleton Rigs
+	|   Compatible Skeletons |   Expressions   |    Face Capture     |
+	| :-------------| :-------------: | :-------------: |      
+	|  Makehuman    |     Yes            |  Soon            |
+	|  CC3          |     Yes            |  Yes             |
+	|  Daz3D (Gen2) |     No             |  No             |
+	|  Daz3D (Gen3) |     No             |  No             |
+	|  Mixamo       |     Partial        |  Yes             |
+	|  Fuse CC      |     Yes            |  Yes             |
 - Q: **How do I make a prop that can be grabbed like the ones in Luxor?**
 
 - Q: **How do we import custom sets (worlds) into Luxor?**
