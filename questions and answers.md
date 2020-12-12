@@ -12,10 +12,12 @@
   </p>
   
 - Q: **Can Luxor be used with only an HMD and controllers?**
-  - Yes, there is a basic locomotion system for animating the avatar's lower body when no feet or hip trackers are preset.
-
+  - Yes, there is basic locomotion for animating the avatar's lower body if no feet or hip trackers are preset or the avatar may be locked for standing or sitting in place. 
+  
+- Q: **Can I mix VR hardware such as valve index controllers with a Vive headset?**
+  - Yes, many VR HMDs and controllers are compatible such as Knuckles, Vive wands, Oculus touch and WMR (using SteamVR).
 - Q: **How do we move around in Luxor? Can we do so while recording?**
-  - There includes several ways users may move about the scene. There are controls located on the main menu for moving the playspace or scaling the avatar:
+  - There are several ways users may move around in a scene. Some controls are located in the main menu for moving, rotating or scaling the avatar:
   <p align="center">
   <a href="/img/slew controls.png">
      <img width="15%" height="15%" src="/img/slew controls.png">
@@ -26,16 +28,22 @@
   </p>
 
   
-  It is possible to use superhero fly mode while recording, and if used in combination with raycast floor the avatar will remain attached to any floor coliders.
+  Superhero fly mode may be enabled during recording, and when used in combination with raycast floor the avatar will remain attached to any floor but move in the direction the user is pointing.
   <p align="center">
   <a href="/img/slew fly.png">
-     <img width="15%" height="15%" src="/img/slew fly.png">
+     <img width="15%" height="15%" src="/img/sidekick slew controls.png">
+  </a>
+  </p>
+  
+  The Sidekick app also has some simplified controls for moving the avatar remotely:
+  <p align="center">
+  <a href="/img/sidekick slew controls.png">
+     <img width="15%" height="15%" src="/img/sidekick slew controls.png">
   </a>
   </p>
   
 - Q: **How do I export my scene to Blender?**
   
-- Q: **Can I mix VR hardware such as valve index controllers with a Vive headset?**
 
 - Q: **How many trackers can I use in total?**
 
