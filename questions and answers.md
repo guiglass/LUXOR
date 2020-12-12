@@ -37,9 +37,7 @@ Use the "Record Mocap" located button on the VR menu to start recording (alterna
   <details><summary>There are several ways users may move around in a scene.</summary>
 	Some controls are located in the main menu for moving, rotating or scaling the avatar:
 	<p align="center">
-	<a target="_blank" href="/img/slew controls.png">
-	 <img width="15%" height="15%" src="/img/slew controls.png">
-	</a>
+		<img width="15%" height="15%" src="/img/slew controls.png">
 	</p>
 	<p align="center">
 	This panel is hidden during recording.
@@ -47,41 +45,31 @@ Use the "Record Mocap" located button on the VR menu to start recording (alterna
 
 	- Superhero fly mode may be enabled during recording, and when used in combination with raycast floor the avatar will remain attached to any floor but can be moved in the direction the user is pointing.
 	<p align="center">
-	<a target="_blank" href="/img/slew fly.png">
-	 <img width="15%" height="15%" src="/img/slew fly.png">
-	</a>
+		<img width="15%" height="15%" src="/img/slew fly.png">
 	</p>
 
 	- The Sidekick app also has simplified controls for positioning the avatar in the scene remotely:
 	<p align="center">
-	<a target="_blank" href="/img/sidekick slew controls.png">
 	 <img width="15%" height="15%" src="/img/sidekick slew controls.png">
-	</a>
 	</p>
    </details>
 - **How do I export my scene to Blender?**
   <details><summary>Users can export the current recoreded scenes as blender files from the "export" panel.</summary>
 	To export the current mocap and scene to Blender locate the *export* panel and enter a folder name where the files will be written and then pressing *export*:
 	<p align="center">
-	<a target="_blank" href="/img/panel ui export.png">
 	 <img width="15%" height="15%" src="/img/panel ui export.png">
-	</a>
 	</p>
 
 	- The menu in VR also provids an *export* panel and can be used to export the current scene to Blener files:
 	<p align="center">
-	<a target="_blank" href="/img/panel vr export.png">
-	 <img width="15%" height="15%" src="/img/panel vr export.png">
-	</a>
+		<img width="15%" height="15%" src="/img/panel vr export.png">
 	</p>
    </details>  
 - **How many trackers can I use in total?**
   <details><summary>Avatars may be connected to 11 points of tracking.</summary>
 	Avatars may be connected to 11 points of tracking (hands, arms, elbows, feet knees, hip, chest, head). 
 	<p align="center">
-	<a target="_blank" href="/img/mocap_suit.jpg">
 		<img width="15%" height="15%" src="/img/mocap_suit.jpg">
-	</a>
 	</p>
 	
 	And two auxilary trackers may be used for props and VR cameras.
@@ -95,9 +83,7 @@ Use the "Record Mocap" located button on the VR menu to start recording (alterna
   <details><summary>Yes, using the APS_SDK allows adding custom avatars.</summary>
 	The APS_SDK allows adding avatars to Luxor using modles from either .fbx or .blend files: 
 	<p align="center">
-	<a target="_blank" href="https://youtu.be/oEwkhIr4ffw">
 		<img width="15%" height="15%" src="http://i3.ytimg.com/vi/oEwkhIr4ffw/hqdefault.jpg">
-	</a>
 	</p>
 	
    </details>
@@ -105,6 +91,7 @@ Use the "Record Mocap" located button on the VR menu to start recording (alterna
   <details><summary>Most avatars are supported so long as they can be configured as a standard humanoid in Unity.</summary>
 	Using the APS_SDK almost any humanoid avatar can be added so long as the avatar can be configured as a standard humanoid in Unity.
    </details>
+   
 - **How do I make a prop that can be grabbed like the ones in Luxor?**
 
 - **How do I import custom sets (worlds) into Luxor?**
@@ -112,8 +99,6 @@ Use the "Record Mocap" located button on the VR menu to start recording (alterna
 - **How do I link the sidekick app and use it along with full body tracking?**
 
 - **How do I link Luxor to Blender viewport in real time?**
-
-
 
 - **Can Luxor be used offline?**
   <details><summary>Luxor is early access beta and requires verifying the activation token online.</summary>
