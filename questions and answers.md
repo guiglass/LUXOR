@@ -1,11 +1,8 @@
-<a class="lightbox" href="#dog">
-   <img src="http://i.huffpost.com/gen/749263/original.jpg"/>
-</a> 
 <div class="lightbox-target" id="dog">
-   <img src="http://i.huffpost.com/gen/749263/original.jpg"/>
+   <img src="/img/tracker setup.png"/>
    <a class="lightbox-close" href="#"></a>
 </div>
-/img/tracker setup.png" target="_blank
+
 
 [< Main Page](https://github.com/guiglass/LUXOR/blob/gh-pages/index.md)
 
