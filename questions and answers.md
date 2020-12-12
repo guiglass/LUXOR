@@ -4,68 +4,75 @@
 
 
 - **Is SteamVR required to run Luxor?**
-  <details><summary>SteamVR is required</summary>
+  <details><summary>Yes, SteamVR is required.</summary>
  
-	SteamVR is required and is needed for tracker support and for interaction with props and scenes. *However many non-SteamVR HMDs and controllers are supported and can be used with SteamVR (Oculus, WMR, Kinect)*.
+	SteamVR is needed for tracker support and for interaction with props and scenes. *However many non-SteamVR HMDs and controllers are supported and can be used with SteamVR (Oculus, WMR, Kinect)*.
 	  
 	*it is possible to use some basic features on a PC with only a Oculus Quest 2 HMD and no SteamVR.*
   
    </details>
 
 
-- **Can I use Luxor without a HMD?**
-  - Yes, it is possible to connect the avatar to a head tracker without the need for an HMD. This can be acomplished by configuring a tracker to function as a head tracker in the Tracer Setup menu:
-  <p align="center">
-  <a href="/img/tracker setup.png">
-     <img width="15%" height="15%" src="/img/tracker setup.png">
-  </a>
-  </p>
-  
-- **Can Luxor be used with only an HMD and controllers?**
-  - Yes, there is basic locomotion for animating the avatar's lower body if no feet or hip trackers are preset or the avatar may be locked for standing or sitting in place. 
-  
-- **Can I mix VR hardware such as valve index controllers with a Vive headset?**
-  - Yes, many VR HMDs and controllers are compatible such as Knuckles, Vive wands, Oculus touch and WMR (using SteamVR).
-- **How do I move around in Luxor? Can I do so while recording?**
-  - There are several ways users may move around in a scene. Some controls are located in the main menu for moving, rotating or scaling the avatar:
-  <p align="center">
-  <a href="/img/slew controls.png">
-     <img width="15%" height="15%" src="/img/slew controls.png">
-  </a>
-  </p>
-  <p align="center">
-	This panel is hidden during recording.
-  </p>
 
-  
-  - Superhero fly mode may be enabled during recording, and when used in combination with raycast floor the avatar will remain attached to any floor but can be moved in the direction the user is pointing.
-  <p align="center">
-  <a href="/img/slew fly.png">
-     <img width="15%" height="15%" src="/img/slew fly.png">
-  </a>
-  </p>
-  
-  - The Sidekick app also has simplified controls for positioning the avatar in the scene remotely:
-  <p align="center">
-  <a href="/img/sidekick slew controls.png">
-     <img width="15%" height="15%" src="/img/sidekick slew controls.png">
-  </a>
-  </p>
-  
+- **Can I use Luxor without a HMD?**
+  <details><summary>Yes, Avatars may be connected to head trackers instead.</summary>
+	It is possible to connect the avatar to a head tracker without the need for an HMD. This can be acomplished by configuring a tracker to function as a head tracker in the Tracer Setup menu:
+	<p align="center">
+	<a href="/img/tracker setup.png">
+	 <img width="15%" height="15%" src="/img/tracker setup.png">
+	</a>
+	</p>
+   </details>
+- **Do I need trackers or can this be used with just controllers and an HMD?**
+  <details><summary>Yes the avatar can be connected to only controllers and HMD and trackers are optional.</summary>
+	There is basic locomotion for animating the avatar's lower body if no feet or hip trackers are preset or the avatar may be locked for standing or sitting in place. 
+   </details>
+- **Can I mix VR hardware such as valve index controllers with a Vive headset?**
+  <details><summary>Yes, many VR HMDs and controllers are compatible.</summary>
+	Users may mix controllers such as Knuckles, Vive wands, Oculus touch and WMR (using SteamVR).
+   </details>
+- **How do I move around in Luxor? Can I do so while recording?**
+  <details><summary>There are several ways users may move around in a scene.</summary>
+	Some controls are located in the main menu for moving, rotating or scaling the avatar:
+	<p align="center">
+	<a href="/img/slew controls.png">
+	 <img width="15%" height="15%" src="/img/slew controls.png">
+	</a>
+	</p>
+	<p align="center">
+	This panel is hidden during recording.
+	</p>
+
+	- Superhero fly mode may be enabled during recording, and when used in combination with raycast floor the avatar will remain attached to any floor but can be moved in the direction the user is pointing.
+	<p align="center">
+	<a href="/img/slew fly.png">
+	 <img width="15%" height="15%" src="/img/slew fly.png">
+	</a>
+	</p>
+
+	- The Sidekick app also has simplified controls for positioning the avatar in the scene remotely:
+	<p align="center">
+	<a href="/img/sidekick slew controls.png">
+	 <img width="15%" height="15%" src="/img/sidekick slew controls.png">
+	</a>
+	</p>
+   </details>
 - **How do I export my scene to Blender?**
-  - To export the current mocap and scene to Blender locate the *export* panel and enter a folder name where the files will be written and then pressing *export*:
-  <p align="center">
-  <a href="/img/panel ui export.png">
-     <img width="15%" height="15%" src="/img/panel ui export.png">
-  </a>
-  </p>
-  
-  - The menu in VR also provids an *export* panel and can be used to export the current scene to Blener files:
-  <p align="center">
-  <a href="/img/panel vr export.png">
-     <img width="15%" height="15%" src="/img/panel vr export.png">
-  </a>
-  </p>
+  <details><summary>Users can export the current recoreded scenes as blender files from the "export" panel.</summary>
+	To export the current mocap and scene to Blender locate the *export* panel and enter a folder name where the files will be written and then pressing *export*:
+	<p align="center">
+	<a href="/img/panel ui export.png">
+	 <img width="15%" height="15%" src="/img/panel ui export.png">
+	</a>
+	</p>
+
+	- The menu in VR also provids an *export* panel and can be used to export the current scene to Blener files:
+	<p align="center">
+	<a href="/img/panel vr export.png">
+	 <img width="15%" height="15%" src="/img/panel vr export.png">
+	</a>
+	</p>
+   </details>  
 - **How many trackers can I use in total?**
   - Avatars may be connected to 11 points of tracking (hands, arms, elbows, feet knees, hip, chest, head). And two auxilary trackers for props or cameras
   <p align="center">
