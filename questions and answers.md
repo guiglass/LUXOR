@@ -74,12 +74,16 @@
 	</p>
    </details>  
 - **How many trackers can I use in total?**
-  - Avatars may be connected to 11 points of tracking (hands, arms, elbows, feet knees, hip, chest, head). And two auxilary trackers for props or cameras
-  <p align="center">
-  <a href="/img/mocap_suit.jpg">
-     <img width="15%" height="15%" src="/img/mocap_suit.jpg">
-  </a>
-  </p>
+  <details><summary>Avatars may be connected to 11 points of tracking.</summary>
+	Avatars may be connected to 11 points of tracking (hands, arms, elbows, feet knees, hip, chest, head). 
+	<p align="center">
+	<a href="/img/mocap_suit.jpg">
+		<img width="15%" height="15%" src="/img/mocap_suit.jpg">
+	</a>
+	</p>
+	
+	And two auxilary trackers may be used for props and VR cameras.
+   </details>
 - **What versions of Unity and Blender should I be using?**
   <details><summary>Recomended versions are Unity 2019.4 and Blender 2.8+.</summary>
 	- It's recomended to use Unity 2019.4 with the APS_SDK however other versions are compatible and the APS_SDK can be used with Unity 2018.4.20f1 (for backwards compatibility with vrchat). *The APS_SDK is not compatible with Unity 2020!*
@@ -96,8 +100,9 @@
 	
    </details>
 - **What types of avatars are supported?**
+  <details><summary>Most avatars are supported so long as they can be configured as a standard humanoid in Unity.</summary>
 	Using the APS_SDK almost any humanoid avatar can be added so long as the avatar can be configured as a standard humanoid in Unity.
-
+   </details>
 - **How do I make a prop that can be grabbed like the ones in Luxor?**
 
 - **How do I import custom sets (worlds) into Luxor?**
@@ -107,7 +112,11 @@
 - **How do I link Luxor to Blender viewport in real time?**
 
 - **Can Luxor be used offline?**
+  <details><summary>Luxor is early access beta and requires verifying the activation token online.</summary>
   - Luxor is early access beta. When the program starts it requires verifying an activation token. After initially verifying activation no futher internet connection is required.
-  
+   </details>
 - **What does the parental lock do?**
-  - Currently parental lock disables the ability to toggle mesh visiblity (clothing). But may be used in the future so users can lock adult props/avatars from loading or showing (for live streaming). 
+  <details><summary>It disables the ability to toggle mesh visiblity (clothing).</summary>
+	Currently parental lock disables the ability to toggle mesh visiblity (clothing). But may be used in the future so users can lock adult props/avatars from loading or showing (for live streaming). 
+   </details>
+
