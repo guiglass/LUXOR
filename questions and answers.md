@@ -16,7 +16,7 @@
   
 - Q: **Can I mix VR hardware such as valve index controllers with a Vive headset?**
   - Yes, many VR HMDs and controllers are compatible such as Knuckles, Vive wands, Oculus touch and WMR (using SteamVR).
-- Q: **How do we move around in Luxor? Can we do so while recording?**
+- Q: **How do I move around in Luxor? Can I do so while recording?**
   - There are several ways users may move around in a scene. Some controls are located in the main menu for moving, rotating or scaling the avatar:
   <p align="center">
   <a href="/img/slew controls.png">
@@ -75,11 +75,11 @@
 
 - Q: **How do I make a prop that can be grabbed like the ones in Luxor?**
 
-- Q: **How do we import custom sets (worlds) into Luxor?**
+- Q: **How do I import custom sets (worlds) into Luxor?**
 
-- Q: **How do we link the sidekick app and use it along with full body tracking?**
+- Q: **How do I link the sidekick app and use it along with full body tracking?**
 
-- Q: **How do we link Luxor to Blender viewport in real time?**
+- Q: **How do I link Luxor to Blender viewport in real time?**
 
 - Q: **Can Luxor be used offline?**
   - Luxor is early access beta. When the program starts it requires verifying an activation token. After initially verifying activation no futher internet connection is required.
