@@ -1,17 +1,6 @@
-<div>
-   <img src="/img/tracker setup.png"/>
-   <a href="#"></a>
-</div>
-
-<div>
-   <img src="/img/tracker setup.png"/>
-</div>
-
-
 [< Main Page](https://github.com/guiglass/LUXOR/blob/gh-pages/index.md)
 
 # Frequently Asked Questions
-
 
 - **Is SteamVR required to run Luxor?**
   <details><summary>Yes, SteamVR is required.</summary>
@@ -22,20 +11,15 @@
   
    </details>
 
-
-
 - **Can I use Luxor without a HMD?**
   <details><summary>Yes, Avatars may be connected to head trackers instead.</summary>
 	It is possible to connect the avatar to a head tracker without the need for an HMD. This can be acomplished by configuring a tracker to function as a head tracker in the Tracer Setup menu:
 	<p align="center">
-	<div>
-	   <img src="/img/tracker setup.png"/>
-	   <a href="#"></a>
-	</div>
+		<img width="15%" height="15%" src="/img/tracker setup.png"/>
 	</p>
    </details>
 - **Do I need trackers or can this be used with just controllers and an HMD?**
-  <details><summary>Yes the avatar can be connected to only controllers and HMD and trackers are optional.</summary>
+  <details><summary>Yes the avatar can be connected to controllers and HMD only, trackers are optional.</summary>
 	There is basic locomotion for animating the avatar's lower body if no feet or hip trackers are preset or the avatar may be locked for standing or sitting in place. 
    </details>
 - **Can I mix VR hardware such as valve index controllers with a Vive headset?**
