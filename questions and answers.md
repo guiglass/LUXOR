@@ -5,13 +5,12 @@
 
 - **Is SteamVR required to run Luxor?**
   - <details><summary>SteamVR is required</summary>
-    <pre>
+ 
 	SteamVR is required and is needed for tracker support and for interaction with props and scenes. *However many non-SteamVR HMDs and controllers are supported and can be used with SteamVR (Oculus, WMR, Kinect)*.
 	  
 	*it is possible to use some basic features on a PC with only a Oculus Quest 2 HMD and no SteamVR.*
-    </pre>
+  
    </details>
-
 
 
 - **Can I use Luxor without a HMD?**
