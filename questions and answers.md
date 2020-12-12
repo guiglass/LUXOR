@@ -18,7 +18,7 @@
   <details><summary>Yes, Avatars may be connected to head trackers instead.</summary>
 	It is possible to connect the avatar to a head tracker without the need for an HMD. This can be acomplished by configuring a tracker to function as a head tracker in the Tracer Setup menu:
 	<p align="center">
-	<a target="_blank" href="/img/tracker setup.png">
+	<a href="/img/tracker setup.png" target="_blank">
 	 <img width="15%" height="15%" src="/img/tracker setup.png">
 	</a>
 	</p>
