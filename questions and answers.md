@@ -20,7 +20,8 @@
   <a href="/img/slew controls.png">
      <img width="15%" height="15%" src="/img/slew controls.png">
   </a>
-  
+  </p>
+  <p align="center">
 	This panel becomes hidden during recording.
   </p>
 
