@@ -35,7 +35,7 @@
   </a>
   </p>
   
-  The Sidekick app also has some simplified controls for moving the avatar remotely:
+  The Sidekick app also has simplified controls for moving the avatar remotely:
   <p align="center">
   <a href="/img/sidekick slew controls.png">
      <img width="15%" height="15%" src="/img/sidekick slew controls.png">
@@ -43,8 +43,19 @@
   </p>
   
 - Q: **How do I export my scene to Blender?**
+  To export the current mocap and scene to Blender locate the *export* panel and enter a folder name where the files will be written and then pressing *export*:
+  <p align="center">
+  <a href="/img/panel ui export.png">
+     <img width="15%" height="15%" src="/img/panel ui export.png">
+  </a>
+  </p>
   
-
+  The menu in VR also provids an *export* panel and can be used to also export the current scene to Blener files:
+  <p align="center">
+  <a href="/img/panel vr export.png">
+     <img width="15%" height="15%" src="/img/panel vr export.png">
+  </a>
+  </p>
 - Q: **How many trackers can I use in total?**
 
 - Q: **What versions of Unity and Blender should I be using?**
