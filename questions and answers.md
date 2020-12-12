@@ -31,7 +31,7 @@
   Superhero fly mode may be enabled during recording, and when used in combination with raycast floor the avatar will remain attached to any floor but move in the direction the user is pointing.
   <p align="center">
   <a href="/img/slew fly.png">
-     <img width="15%" height="15%" src="/img/sidekick slew controls.png">
+     <img width="15%" height="15%" src="/img/slew fly.png">
   </a>
   </p>
   
