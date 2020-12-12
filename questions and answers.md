@@ -1,6 +1,6 @@
 [< Main Page](https://github.com/guiglass/LUXOR/blob/gh-pages/index.md)
 
-# Questions and Answers
+# Frequently Asked Questions
 
 
 - Q: Can I use Luxor without a HMD (connect my avatar to a head tracker)
