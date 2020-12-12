@@ -15,12 +15,21 @@
   - Yes, there is a basic locomotion system for animating the avatar's lower body when no feet or hip trackers are preset.
 
 - Q: How do we move around in Luxor? Can we do so while recording?
-  - There are several way users may move around in the scene. 
+  - There includes several ways users may move about the scene. There are controls located on the main menu for moving the playspace or scaling the avatar:
   <p align="center">
-  <a href="/img/tracker setup.png">
+  <a href="/img/slew controls.png">
      <img width="15%" height="15%" src="/img/slew controls.png">
   </a>
   </p>
+  This panel becomes hidden during recording.
+  
+  It is possible to use superhero fly mode while recording, and if used in combination with raycast floor the avatar will remain attached to any floor coliders.
+  <p align="center">
+  <a href="/img/slew fly.png">
+     <img width="15%" height="15%" src="/img/slew fly.png">
+  </a>
+  </p>
+  
 - Q: How do I export my scene to Blender?
   - 
 - Q: Can I mix VR hardware such as valve index controllers with a Vive headset?
