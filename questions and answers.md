@@ -50,7 +50,7 @@
   </a>
   </p>
   
-  The menu in VR also provids an *export* panel and can be used to also export the current scene to Blener files:
+  The menu in VR also provids an *export* panel and can be used to export the current scene to Blener files:
   <p align="center">
   <a href="/img/panel vr export.png">
      <img width="15%" height="15%" src="/img/panel vr export.png">
