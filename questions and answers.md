@@ -29,7 +29,8 @@
 - **How do I interact with the menus?**
 
 - **How do I record a mocap?**
-	🔵 Use the "Record Mocap" located button on the VR menu to start recording (alternatively you could use the spacebar hotkey)
+
+🔵 Use the "Record Mocap" located button on the VR menu to start recording (alternatively you could use the spacebar hotkey)
 
 
 - **How do I move around in Luxor? Can I do so while recording?**
