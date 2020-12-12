@@ -3,7 +3,7 @@
 # Frequently Asked Questions
 
 
-- Q: **Can I use Luxor without a HMD?**
+- **Can I use Luxor without a HMD?**
   - Yes, it is possible to connect the avatar to a head tracker without the need for an HMD. This can be acomplished by configuring a tracker to function as a head tracker in the Tracer Setup menu:
   <p align="center">
   <a href="/img/tracker setup.png">
@@ -11,12 +11,12 @@
   </a>
   </p>
   
-- Q: **Can Luxor be used with only an HMD and controllers?**
+- **Can Luxor be used with only an HMD and controllers?**
   - Yes, there is basic locomotion for animating the avatar's lower body if no feet or hip trackers are preset or the avatar may be locked for standing or sitting in place. 
   
-- Q: **Can I mix VR hardware such as valve index controllers with a Vive headset?**
+- **Can I mix VR hardware such as valve index controllers with a Vive headset?**
   - Yes, many VR HMDs and controllers are compatible such as Knuckles, Vive wands, Oculus touch and WMR (using SteamVR).
-- Q: **How do I move around in Luxor? Can I do so while recording?**
+- **How do I move around in Luxor? Can I do so while recording?**
   - There are several ways users may move around in a scene. Some controls are located in the main menu for moving, rotating or scaling the avatar:
   <p align="center">
   <a href="/img/slew controls.png">
@@ -42,7 +42,7 @@
   </a>
   </p>
   
-- Q: **How do I export my scene to Blender?**
+- **How do I export my scene to Blender?**
   - To export the current mocap and scene to Blender locate the *export* panel and enter a folder name where the files will be written and then pressing *export*:
   <p align="center">
   <a href="/img/panel ui export.png">
@@ -56,33 +56,33 @@
      <img width="15%" height="15%" src="/img/panel vr export.png">
   </a>
   </p>
-- Q: **How many trackers can I use in total?**
+- **How many trackers can I use in total?**
   - Avatars may be connected to 11 points of tracking (hands, arms, elbows, feet knees, hip, chest, head). And two auxilary trackers for props or cameras
   <p align="center">
   <a href="/img/mocap_suit.jpg">
      <img width="15%" height="15%" src="/img/mocap_suit.jpg">
   </a>
   </p>
-- Q: **What versions of Unity and Blender should I be using?**
+- **What versions of Unity and Blender should I be using?**
   - It is recomended to use Unity 2019.4 with the APS_SDK however other versions are compatible and the APS_SDK can be used with Unity 2018.4.20f1 (for backwards compatibility with vrchat).
   - Using Blender 2.8 is recomended, however 2.79 is mostly compatible.
   
-- Q: **Can I import a custom avatar into Luxor?**
+- **Can I import a custom avatar into Luxor?**
   - Yes, the APS_SDK allows adding avatars to Luxor using modles from .fbx or .blends files.
   
-- Q: **What types of avatars are supported?**
+- **What types of avatars are supported?**
 	Using the APS_SDK just about any humanoid avatar can be added so long as the avatar can be configured as a standard humanoid in Unity.
 
-- Q: **How do I make a prop that can be grabbed like the ones in Luxor?**
+- **How do I make a prop that can be grabbed like the ones in Luxor?**
 
-- Q: **How do I import custom sets (worlds) into Luxor?**
+- **How do I import custom sets (worlds) into Luxor?**
 
-- Q: **How do I link the sidekick app and use it along with full body tracking?**
+- **How do I link the sidekick app and use it along with full body tracking?**
 
-- Q: **How do I link Luxor to Blender viewport in real time?**
+- **How do I link Luxor to Blender viewport in real time?**
 
-- Q: **Can Luxor be used offline?**
+- **Can Luxor be used offline?**
   - Luxor is early access beta. When the program starts it requires verifying an activation token. After initially verifying activation no futher internet connection is required.
   
-- Q: **What does the parental lock do?**
+- **What does the parental lock do?**
   - Currently parental lock disables the ability to toggle mesh visiblity (clothing). But may be used in the future so users can lock adult props/avatars from loading or showing (for live streaming). 
