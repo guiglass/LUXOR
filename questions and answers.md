@@ -3,6 +3,9 @@
 # Frequently Asked Questions
 
 
+- **Does Luxor "require" SteamVR?**
+  SteamVR is required for tracker support and for interacting with props. *However it is possible to use some basic features on a PC with only a Oculus Quest 2 HMD.*
+
 - **Can I use Luxor without a HMD?**
   - Yes, it is possible to connect the avatar to a head tracker without the need for an HMD. This can be acomplished by configuring a tracker to function as a head tracker in the Tracer Setup menu:
   <p align="center">
@@ -35,7 +38,7 @@
   </a>
   </p>
   
-  - The Sidekick app also has simplified controls for positioning the avatar remotely:
+  - The Sidekick app also has simplified controls for positioning the avatar in the scene remotely:
   <p align="center">
   <a href="/img/sidekick slew controls.png">
      <img width="15%" height="15%" src="/img/sidekick slew controls.png">
