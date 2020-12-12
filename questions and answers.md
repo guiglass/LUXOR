@@ -59,8 +59,8 @@
 - Q: **How many trackers can I use in total?**
   - Avatars may be connected to 11 points of tracking (hands, arms, elbows, feet knees, hip, chest, head). And two auxilary trackers for props or cameras
   <p align="center">
-  <a href="/img/mocap_suit.png">
-     <img width="15%" height="15%" src="/img/mocap_suit.png">
+  <a href="/img/mocap_suit.jpg">
+     <img width="15%" height="15%" src="/img/mocap_suit.jpg">
   </a>
   </p>
 - Q: **What versions of Unity and Blender should I be using?**
