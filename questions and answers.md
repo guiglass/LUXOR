@@ -71,15 +71,8 @@
   - Yes, the APS_SDK allows adding avatars to Luxor using modles from .fbx or .blends files.
   
 - Q: **What types of avatars are supported?**
-	## Compatible Skeleton Rigs
-	|   Compatible Skeletons |   Expressions   |    Face Capture     |
-	| :-------------| :-------------: | :-------------: |      
-	|  Makehuman    |     Yes            |  Soon            |
-	|  CC3          |     Yes            |  Yes             |
-	|  Daz3D (Gen2) |     No             |  No             |
-	|  Daz3D (Gen3) |     No             |  No             |
-	|  Mixamo       |     Partial        |  Yes             |
-	|  Fuse CC      |     Yes            |  Yes             |
+	Using the APS_SDK just about any humanoid avatar can be added so long as the avatar can be configured as a standard humanoid in Unity.
+
 - Q: **How do I make a prop that can be grabbed like the ones in Luxor?**
 
 - Q: **How do we import custom sets (worlds) into Luxor?**
