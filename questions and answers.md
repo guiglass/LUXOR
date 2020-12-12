@@ -90,7 +90,7 @@
 	The APS_SDK allows adding avatars to Luxor using modles from either .fbx or .blend files: 
 	<p align="center">
 	<a href="https://youtu.be/oEwkhIr4ffw">
-		<img width="15%" height="15%" src="http://i3.ytimg.com/vi/oEwkhIr4ffw/maxresdefault.jpg">
+		<img width="15%" height="15%" src="http://i3.ytimg.com/vi/oEwkhIr4ffw/hqdefault.jpg">
 	</a>
 	</p>
 	
