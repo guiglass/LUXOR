@@ -20,8 +20,9 @@
   <a href="/img/slew controls.png">
      <img width="15%" height="15%" src="/img/slew controls.png">
   </a>
+	This panel becomes hidden during recording.
   </p>
-  This panel becomes hidden during recording.
+
   
   It is possible to use superhero fly mode while recording, and if used in combination with raycast floor the avatar will remain attached to any floor coliders.
   <p align="center">
