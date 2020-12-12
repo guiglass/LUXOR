@@ -81,12 +81,20 @@
   </a>
   </p>
 - **What versions of Unity and Blender should I be using?**
-  - It's recomended to use Unity 2019.4 with the APS_SDK however other versions are compatible and the APS_SDK can be used with Unity 2018.4.20f1 (for backwards compatibility with vrchat).
-  - Using Blender 2.8 is recomended, however 2.79 is mostly supported.
-  
+  <details><summary>Recomended versions are Unity 2019.4 and Blender 2.8+.</summary>
+	- It's recomended to use Unity 2019.4 with the APS_SDK however other versions are compatible and the APS_SDK can be used with Unity 2018.4.20f1 (for backwards compatibility with vrchat). *The APS_SDK is not compatible with Unity 2020!*
+	- Using Blender 2.8 is recomended, however 2.79 is mostly supported.
+   </details>
 - **Can I import a custom avatar into Luxor?**
-  - Yes, the APS_SDK allows adding avatars to Luxor using modles from either .fbx or .blend files.
-  
+  <details><summary>Yes, using the APS_SDK allows adding custom avatars.</summary>
+	The APS_SDK allows adding avatars to Luxor using modles from either .fbx or .blend files: 
+	<p align="center">
+	<a href="https://youtu.be/oEwkhIr4ffw">
+		<img width="15%" height="15%" src="http://i3.ytimg.com/vi/oEwkhIr4ffw/maxresdefault.jpg">
+	</a>
+	</p>
+	
+   </details>
 - **What types of avatars are supported?**
 	Using the APS_SDK almost any humanoid avatar can be added so long as the avatar can be configured as a standard humanoid in Unity.
 
