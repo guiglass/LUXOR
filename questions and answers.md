@@ -35,7 +35,7 @@
   </a>
   </p>
   
-  - The Sidekick app also has simplified controls for moving the avatar remotely:
+  - The Sidekick app also has simplified controls for positioning the avatar remotely:
   <p align="center">
   <a href="/img/sidekick slew controls.png">
      <img width="15%" height="15%" src="/img/sidekick slew controls.png">
