@@ -43,7 +43,7 @@
   </p>
   
 - Q: **How do I export my scene to Blender?**
-  To export the current mocap and scene to Blender locate the *export* panel and enter a folder name where the files will be written and then pressing *export*:
+  - To export the current mocap and scene to Blender locate the *export* panel and enter a folder name where the files will be written and then pressing *export*:
   <p align="center">
   <a href="/img/panel ui export.png">
      <img width="15%" height="15%" src="/img/panel ui export.png">
