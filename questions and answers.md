@@ -6,7 +6,7 @@
 - **Is SteamVR required to run Luxor?**
   - SteamVR is required and is needed for tracker support and for interaction with props and scenes. *However many non-SteamVR HMDs and controllers are supported and can be used with SteamVR (Oculus, WMR, Kinect)*.
   
-  - *it is possible to use some basic features on a PC with only a Oculus Quest 2 HMD and no SteamVR*
+  - *it is possible to use some basic features on a PC with only a Oculus Quest 2 HMD and no SteamVR.*
 
 - **Can I use Luxor without a HMD?**
   - Yes, it is possible to connect the avatar to a head tracker without the need for an HMD. This can be acomplished by configuring a tracker to function as a head tracker in the Tracer Setup menu:
@@ -33,7 +33,7 @@
   </p>
 
   
-  - Superhero fly mode may be enabled during recording, and when used in combination with raycast floor the avatar will remain attached to any floor but move in the direction the user is pointing.
+  - Superhero fly mode may be enabled during recording, and when used in combination with raycast floor the avatar will remain attached to any floor but can be moved in the direction the user is pointing.
   <p align="center">
   <a href="/img/slew fly.png">
      <img width="15%" height="15%" src="/img/slew fly.png">
