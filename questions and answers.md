@@ -1,6 +1,6 @@
-<div class="lightbox-target" id="dog">
+<div>
    <img src="/img/tracker setup.png"/>
-   <a class="lightbox-close" href="#"></a>
+   <a href="#"></a>
 </div>
 
 
