@@ -28,14 +28,14 @@
   </p>
 
   
-  Superhero fly mode may be enabled during recording, and when used in combination with raycast floor the avatar will remain attached to any floor but move in the direction the user is pointing.
+  - Superhero fly mode may be enabled during recording, and when used in combination with raycast floor the avatar will remain attached to any floor but move in the direction the user is pointing.
   <p align="center">
   <a href="/img/slew fly.png">
      <img width="15%" height="15%" src="/img/slew fly.png">
   </a>
   </p>
   
-  The Sidekick app also has simplified controls for moving the avatar remotely:
+  - The Sidekick app also has simplified controls for moving the avatar remotely:
   <p align="center">
   <a href="/img/sidekick slew controls.png">
      <img width="15%" height="15%" src="/img/sidekick slew controls.png">
@@ -50,7 +50,7 @@
   </a>
   </p>
   
-  The menu in VR also provids an *export* panel and can be used to export the current scene to Blener files:
+  - The menu in VR also provids an *export* panel and can be used to export the current scene to Blener files:
   <p align="center">
   <a href="/img/panel vr export.png">
      <img width="15%" height="15%" src="/img/panel vr export.png">
