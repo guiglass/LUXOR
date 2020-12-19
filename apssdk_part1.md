@@ -13,7 +13,8 @@
 
 
 Download [Unity 2019.4](https://unity3d.com/unity/whats-new/2019.4.16)
- - The APS SDK is compatible with Unity 2018.4.20f1 for users who are also working with VRCSDK.
+ - Unity 2020 is not supported!
+ - The APS SDK is compatible with Unity 2018.4.20f1 for users who are also working with the VRCSDK.
 
 
 Download the latest [APS_SDK.unitypackage](https://github.com/guiglass/LUXOR/blob/gh-pages/APS_SDK.unitypackage?raw=true)
