@@ -1,4 +1,4 @@
-[< Main Page](https://github.com/guiglass/LUXOR/blob/gh-pages/index.md)
+[< Main Page](index.md)
 
 # Adding Custom Worlds (APS SDK Part 3)
 
