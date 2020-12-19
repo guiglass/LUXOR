@@ -2,7 +2,7 @@
 
 # Frequently Asked Questions
 
-- **Is SteamVR required to run Luxor?**
+- **Is SteamVR required to run LUXOR?**
   <details><summary>Yes, SteamVR is required.</summary>
 	🍎 SteamVR is needed for tracker support and for interaction with props and scenes. *However many non-SteamVR HMDs and controllers are supported and can be used with SteamVR (Oculus, WMR, Kinect)*.
 	  
@@ -10,7 +10,7 @@
   
    </details>
 
-- **Can I use Luxor without a HMD?**
+- **Can I use LUXOR without a HMD?**
   <details><summary>Yes, Avatars may be connected to head trackers instead.</summary>
 	🍎 It is possible to connect the avatar to a head tracker without the need for an HMD. This can be acomplished by configuring a tracker to function as a head tracker in the Tracer Setup menu:
 	<p align="center">
@@ -33,7 +33,7 @@
 	🍎 Click the "Record Mocap" located on the VR menu to start recording (alternatively you could use the spacebar hotkey)
    </details>
 
-- **How do I move around in Luxor? Can I do so while recording?**
+- **How do I move around in LUXOR? Can I do so while recording?**
   <details><summary>There are several ways users may move around in a scene.</summary>
 	🍎 Some controls are located in the main menu for moving, rotating or scaling the avatar:
 	<p align="center">
@@ -79,9 +79,9 @@
 	🍎 It's recomended to use Unity 2019.4 with the APS_SDK however other versions are compatible and the APS_SDK can be used with Unity 2018.4.20f1 (for backwards compatibility with vrchat). *The APS_SDK is not compatible with Unity 2020!*
 	- Using Blender 2.8 is recomended, however 2.79 is mostly supported.
    </details>
-- **Can I import a custom avatar into Luxor?**
+- **Can I import a custom avatar into LUXOR?**
   <details><summary>Yes, using the APS_SDK allows adding custom avatars.</summary>
-	The APS_SDK allows adding avatars to Luxor using modles from either .fbx or .blend files: 
+	The APS_SDK allows adding avatars to LUXOR using modles from either .fbx or .blend files: 
 	<p align="center">
 		<img width="15%" height="15%" src="http://i3.ytimg.com/vi/oEwkhIr4ffw/hqdefault.jpg">
 	</p>
@@ -92,20 +92,19 @@
 	🍎 Using the APS_SDK almost any humanoid avatar can be added so long as the avatar can be configured as a standard humanoid in Unity.
    </details>
    
-- **How do I make a prop that can be grabbed like the ones in Luxor?**
+- **How do I make a prop that can be grabbed like the ones in LUXOR?**
 
-- **How do I import custom sets (worlds) into Luxor?**
+- **How do I import custom sets (worlds) into LUXOR?**
 
 - **How do I link the sidekick app and use it along with full body tracking?**
 
-- **How do I link Luxor to Blender viewport in real time?**
+- **How do I link LUXOR to Blender viewport in real time?**
 
-- **Can Luxor be used offline?**
-  <details><summary>Luxor is early access beta and requires verifying the activation token online.</summary>
-	🍎 Luxor is early access beta. When the program starts it requires verifying an activation token. After initially verifying activation no futher internet connection is required.
+- **Can LUXOR be used offline?**
+  <details><summary>Yes, LUXOR does not require a an internet connection.</summary>
+	🍎 LUXOR is an early access beta and currently does not require any connection to the internet.
    </details>
-- **What does the parental lock do?**
-  <details><summary>It disables the ability to toggle mesh visiblity (clothing).</summary>
-	🍎 Currently parental lock disables the ability to toggle mesh visiblity (clothing). But may be used in the future so users can lock adult props/avatars from loading or showing (for live streaming). 
-   </details>
+- **What does the streamer mode do?**
+  <details><summary>It disables some features and prevents loading any assets marked with NSFW.</summary>
+	🍎 This feature is still under active development but currently streamer mode is enabled by default. By checking will disable some features that might be considered unsafe for livestreaming and prevents loading any assets marked with NSFW option when they were created in the APS_SDK.</details>
 
