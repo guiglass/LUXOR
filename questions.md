@@ -62,7 +62,7 @@
 	<br><br>
 	
 	<b>LUXOR Desktop</b>
-	- To export the current mocap, avatars, props and scene to Blender friendly files first locate the *export* panel in VR by navigating to Addons>Scenes and entering a folder name where the files will be written and then pressing *export*:
+	- To export the current mocap, avatars, props and scene as Blender friendly files first locate the *export* panel in VR by navigating to Addons>Scenes and entering a folder name where the files will be written and then pressing *export*:
 	<p align="center">
 		 <img width="15%" height="15%" src="/img/panel ui export.png">
 	</p>
