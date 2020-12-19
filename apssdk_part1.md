@@ -13,6 +13,11 @@
 Download the latest [APS_SDK](https://github.com/guiglass/LUXOR/blob/gh-pages/APS_SDK.unitypackage?raw=true)
 
 
+<p align="center">
+  <a href="img/avatar menu.png">
+     <img width="50%" height="15%" src="img/avatar menu.png">
+  </a>
+</p>
 
 
 <p align="center">
