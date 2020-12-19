@@ -8,6 +8,11 @@
   </a>
 </p>
 
+
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="test1.mp4">
+</video>
+
 <p align="center">
   <a href="apssdk_part2.md">Adding Custom Props</a> (Part 2)
 </p>
