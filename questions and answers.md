@@ -101,7 +101,7 @@
 - **How do I link LUXOR to Blender viewport in real time?**
 
 - **Can LUXOR be used offline?**
-  <details><summary>Yes, LUXOR does not require a an internet connection.</summary>
+  <details><summary>Yes, APS LUXOR may be used offline and does not require any internet connection.</summary>
 	🍎 LUXOR is an early access beta and currently does not require any connection to the internet.
    </details>
 - **What does the streamer mode do?**
