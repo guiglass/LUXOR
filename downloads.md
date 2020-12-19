@@ -3,7 +3,7 @@
 # Download Latest Release
 
 <p align="center">
-  <a href="">
+  <a href="https://drive.google.com/drive/folders/1728cW_OSFzJ1Cjs5SnVK2ibCNaKedSnm">
      <img width="15%" height="15%" src="/img/Luxor Logo Text.png">
   </a>
 </p>
