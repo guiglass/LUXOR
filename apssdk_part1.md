@@ -19,11 +19,9 @@ Download [Unity 2019.4](https://unity3d.com/unity/whats-new/2019.4.16)
 
 Download the latest [APS_SDK.unitypackage](https://github.com/guiglass/LUXOR/blob/gh-pages/APS_SDK.unitypackage?raw=true)
 
-test
 
 Create a new Unity project ensuring to select the proper Unity version. You may optionally wish to consider sticking to a standardized naming convention such as prepending <b>APS_SDK_</b> to the begining of the project's name whenever creating a project to be used for building assets. The project name should also take into consideration if it will be used for creating an individual asset or batches of assets. For example, whenever I start a project for creating assets in batches I will typically name the project something similar to <b>APS_SDK_BATCH_</b>MyCoolAssets.
 
-test
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/guiglass/LUXOR/gh-pages/img/new%20project.png">
