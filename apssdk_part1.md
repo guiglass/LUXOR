@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  [Adding Custom Props](apssdk_part2.md) (Part 2)
+  <a href="apssdk_part2.md">Adding Custom Props</a> (Part 2)
 </p>
