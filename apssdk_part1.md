@@ -8,10 +8,11 @@
   </a>
 </p>
 
+**Installing the ASP SDK into a new Unity project
 
-<video width="320" height="240" controls>
-  <source type="video/mp4" src="https://www.mediafire.com/file/0nr7vrdf88rb0q3/2020-09-20_04-31-37.mp4">
-</video>
+- [APS_SDK](https://github.com/guiglass/LUXOR/blob/gh-pages/APS_SDK.unitypackage?raw=true)
+- Or locally at %USERPROFILE%\AppData\LocalLow\Animation Prep Studios\LUXOR\Addons\APS SDK Unity
+
 
 <p align="center">
   <a href="apssdk_part2.md">Adding Custom Props</a> (Part 2)
