@@ -9,6 +9,6 @@
 </p>
 
 <p align="center">
-  <b><a href=https://github.com/guiglass/LUXOR/blob/gh-pages/APS_SDK.unitypackage?raw=true>APS SDK DOWNLOAD</a></b>
-</p>
-
+  <a href="">
+     <img width="50%" height="15%" src="img/aps sdk avatar builder main.png">
+  </a>
