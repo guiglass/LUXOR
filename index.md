@@ -12,7 +12,7 @@ APS LUXOR is a motion capture tool that was originally developed as a VR trainin
 
 Here I will try to explain some of the features and techniques for getting started and using APS LUXOR as a tool for creating motion capture in VR from custom avatars which then is auto imported to a Blender scene and can be ready for rendering within minutes of recording. Later I will also try to show examples of using LUXOR for live productions such as streaming avatars, live presentations and VTuber community.
 
-- [Frequently Asked Questions](questions%20and%20answers.md)
+- [Frequently Asked Questions](questions.md)
 - [Minimum requirements](requirements.md)
 - Getting started
 - [Downloads Section](downloads.md)
