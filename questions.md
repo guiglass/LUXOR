@@ -62,7 +62,7 @@
 	<br><br>
 	
 	<b>LUXOR Desktop</b>
-	- To export the current mocap, avatars, props and scene as Blender friendly files, locate the *export* panel located on LUXOR's desktop UI and enter a folder name where the files should be written. Then ensure mocap is playing in the scene before pressing the *export* button to export the current scene:
+	- To export the current mocap, avatars, props and scene as Blender friendly files, open the *export* panel located on LUXOR's desktop UI and enter a folder name where the files should be written. Then ensure mocap is playing in the scene before pressing the *export* button to export the current scene:
 	<p align="center">
 		 <img width="15%" height="15%" src="/img/panel ui export.png">
 	</p>
