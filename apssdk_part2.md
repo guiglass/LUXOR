@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="">
-     <img width="35%" height="15%" src="img/aps sdk prop builder main.png">
+     <img width="50%" height="15%" src="img/aps sdk prop builder main.png">
   </a>
 </p>
 
