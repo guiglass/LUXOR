@@ -109,7 +109,7 @@
 	🍎 This feature is still under active development but currently streamer mode is enabled by default. By checking will disable some features that might be considered unsafe for livestreaming and prevents loading any assets marked with NSFW option when they were created in the APS_SDK.</details>
 
 - **Is LUXOR a plugin for Blender?**
-  <details><summary>No, LUXOR is a game/tool that can record exports the animations and avatars as Blender friendly files.</summary>
+  <details><summary>No, APS LUXOR is a game/tool that can record exports the animations and avatars as Blender friendly files.</summary>
 	🍎 It's not exactly a plugin, it's a game/tool that can record mocap using VR hardware and then exports the animations and avatars as Blender friendly files into their own 'project folder'. But there is a SceneLoader.blend that is used to import those files and automatically set up the blender scene so as to have things ready to render in minutes.
 </details>
 
