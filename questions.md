@@ -58,7 +58,7 @@
   <details><summary>Users may export the current recoreded scenes as Blender friendly files from the "export" panel.</summary>
 	🍎 There are two menus that could be used to export mocap, one panel is located in VR and its twin panel is located on LUXOR's 'desktop UI'. Be sure to have recorded some mocap first and that it is currently playing in the scene before pressing the export button (as LUXOR only exports what is currently being played). 
 	<br><br>
-	In this <a href=https://youtu.be/XdlFtt_F-3Y?t=194>video (at 3:14)</a> shows exporting a scene as animation (.bvh) data and all of the mocap model files for the scene into a new project folder. <i>A new SceneLoader.blend will also be added into this folder which has a Python automation script included</i> that will import and setup the scene for rendereing in Blender using the <i>scene.json</i> meta data and the local assets and animation files..
+	In this <a href=https://youtu.be/XdlFtt_F-3Y?t=194>video (at 3:14)</a> shows exporting a scene as animation (.bvh) data and all of the mocap model files for the scene into a new project folder. <i>A new SceneLoader.blend will also be added into this folder which includes a Python automation script</i> that can be used to automatically import and setup the scene for rendereing in Blender using the <i>scene.json</i> meta data and the local assets and animation files..
 	<br><br>
 	
 	<b>LUXOR Desktop</b>
