@@ -12,17 +12,17 @@ APS LUXOR is a motion capture tool that was originally developed as a VR trainin
 
 Here I will try to explain some of the features and techniques for getting started and using APS LUXOR as a tool for creating motion capture in VR from custom avatars which then is auto imported to a Blender scene and can be ready for rendering within minutes of recording. Later I will also try to show examples of using LUXOR for live productions such as streaming avatars, live presentations and VTuber community.
 
-- [Frequently Asked Questions](/questions%20and%20answers.md)
-- [Minimum requirements](/requirements.md)
+- [Frequently Asked Questions](questions%20and%20answers.md)
+- [Minimum requirements](requirements.md)
 - Getting started
-- [Downloads Section](/downloads.md)
+- [Downloads Section](downloads.md)
 - Recording Mocap
 - Exporting Mocap to Blender
 - Face Capture with the LUXOR Sidekick IOS app
-- [Finger tracking using Quest 2 app](/quest%20finger%20tracking.md)
-- [Adding Custom Avatars (APS SDK Part 1)](/apssdk_part1.md)
-- [Adding Custom Props (APS SDK Part 2)](/apssdk_part2.md)
-- [Adding Custom Worlds (APS SDK Part 3)](/apssdk_part3.md)
+- [Finger tracking using Quest 2 app](quest%20finger%20tracking.md)
+- [Adding Custom Avatars (APS SDK Part 1)](apssdk_part1.md)
+- [Adding Custom Props (APS SDK Part 2)](apssdk_part2.md)
+- [Adding Custom Worlds (APS SDK Part 3)](apssdk_part3.md)
 
 - License
 
