@@ -67,7 +67,7 @@
    </details>  
 - **How many trackers can I use in total?**
   <details><summary>Avatars may be connected to 11 points of tracking.</summary>
-	🍎 Avatars may be connected to 11 points of tracking (hands, arms, elbows, feet knees, hip, chest, head). 
+	🍎 Avatars may be connected to 11 points of tracking (hands, arms, elbows, feet, knees, hip, chest, head). 
 	<p align="center">
 		<img width="15%" height="15%" src="/img/mocap_suit.jpg">
 	</p>
