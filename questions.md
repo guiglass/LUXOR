@@ -60,11 +60,13 @@
 	<br><br>
 	In this <a href=https://youtu.be/XdlFtt_F-3Y?t=194>video (at 3:14)</a> shows exporting a scene as animation (.bvh) data and all of the mocap model files for the scene into a new project folder. <i>A new SceneLoader.blend will also be added into this folder which has a Python automation script included</i> that will import and setup the scene for rendereing in Blender using the <i>scene.json</i> meta data and the local assets and animation files..
 	<br><br>
-	To export the current mocap and scene to Blender locate the *export* panel by navigating to Addons>Scenes and entering a folder name where the files will be written and then pressing *export*:
+	<b>In VR</b>
+	To export the current mocap, avatars, props and scene to Blender friendly files first locate the *export* panel in VR by navigating to Addons>Scenes and entering a folder name where the files will be written and then pressing *export*:
 	<p align="center">
 	 <img width="15%" height="15%" src="/img/panel ui export.png">
 	</p>
 
+	<b>LUXOR Desktop</b>
 	- The menu in VR also provids an *export* panel and can be used to export the current scene to Blener files:
 	<p align="center">
 		<img width="15%" height="15%" src="/img/panel vr export.png">
