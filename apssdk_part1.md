@@ -30,6 +30,9 @@ After installing Unity and opeining Unity hub click on New project and ensure to
 </sub>
 <br><br>
 
+
+More coming soon..
+
 <p align="center">
   <a href="img/avatar menu.png">
      <img width="50%" src="img/avatar menu.png">
@@ -37,6 +40,8 @@ After installing Unity and opeining Unity hub click on New project and ensure to
 </p>
 
 
+
+More coming soon..
 
 
 <p align="center">
