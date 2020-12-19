@@ -13,9 +13,9 @@
 Download the latest [APS_SDK](https://github.com/guiglass/LUXOR/blob/gh-pages/APS_SDK.unitypackage?raw=true)
 
 
-<sub><sup>Alternatively you can locate a copy of the APS SDK included in the application storage directory at:
-
-*%USERPROFILE%\AppData\LocalLow\Animation Prep Studios\LUXOR\Addons\APS SDK Unity*
+Alternatively you can locate a copy of the APS SDK included in the application storage directory at:
+<sub><sup>
+%USERPROFILE%\AppData\LocalLow\Animation Prep Studios\LUXOR\Addons\APS SDK Unity
 </sup></sub>
 <p align="center">
   <a href="apssdk_part2.md">Adding Custom Props</a> (Part 2)
