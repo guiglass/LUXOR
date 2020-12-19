@@ -6,3 +6,7 @@
   <a href="">
      <img width="50%" height="15%" src="img/aps sdk avatar builder main.png">
   </a>
+
+
+
+[Adding Custom Props (APS SDK Part 2)](apssdk_part2.md)
