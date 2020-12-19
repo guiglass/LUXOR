@@ -54,7 +54,7 @@
 	</p>
    </details>
 
-- **How do I export my scene to Blender?**
+- **<div id="target1"> </div>How do I export my scene to Blender?**
   <details><summary>Users can export the current recoreded scenes as blender files from the "export" panel.</summary>
 	🍎 To export the current mocap and scene to Blender locate the *export* panel and enter a folder name where the files will be written and then pressing *export*:
 	<p align="center">
