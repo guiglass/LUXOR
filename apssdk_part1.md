@@ -19,6 +19,12 @@ Download [Unity 2019.4](https://unity3d.com/unity/whats-new/2019.4.16)
 
 Download the latest [APS_SDK.unitypackage](https://github.com/guiglass/LUXOR/blob/gh-pages/APS_SDK.unitypackage?raw=true)
 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/guiglass/LUXOR/gh-pages/img/new%20project.png">
+     <img width="50%" src="https://raw.githubusercontent.com/guiglass/LUXOR/gh-pages/img/new%20project.png">
+  </a>
+</p>
+
 
 <p align="center">
   <a href="img/avatar menu.png">
@@ -26,11 +32,6 @@ Download the latest [APS_SDK.unitypackage](https://github.com/guiglass/LUXOR/blo
   </a>
 </p>
 
-<p align="center">
-  <a href="https://raw.githubusercontent.com/guiglass/LUXOR/gh-pages/img/new%20project.png">
-     <img width="50%" src="https://raw.githubusercontent.com/guiglass/LUXOR/gh-pages/img/new%20project.png">
-  </a>
-</p>
 
 
 
