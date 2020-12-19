@@ -9,6 +9,6 @@
 </p>
 
 <p align="center">
-  <b><a href=https://github.com/guiglass/LUXOR/blob/gh-pages/APS_SDK.unitypackage?raw=true>APS SDK</a></b>
+  <b><a href=https://github.com/guiglass/LUXOR/blob/gh-pages/APS_SDK.unitypackage?raw=true>APS SDK DOWNLOAD</a></b>
 </p>
 
