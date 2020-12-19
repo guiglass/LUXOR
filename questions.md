@@ -54,9 +54,11 @@
 	</p>
    </details>
 
-- **<div id="How-do-I-export-to-Blender"> </div>How do I export my scene to Blender?**
+- **How do I export my scene to Blender?<div id="How-do-I-export-to-Blender"> </div>**
   <details><summary>Users can export the current recoreded scenes as blender files from the "export" panel.</summary>
-	🍎 To export the current mocap and scene to Blender locate the *export* panel and enter a folder name where the files will be written and then pressing *export*:
+	🍎 There are two menus that could be used to export mocap, one is in VR and the other menu panel is located on the 'desktop UI' in LUXOR. Be sure to have recorded some mocap first and that it is playing in the scene before pressing export. Here is a [video (at 3:14)](https://youtu.be/XdlFtt_F-3Y?t=194) showing a scene being exported to a new folder containing the mocap data and model files and a new SceneLoader.blend blender project.
+	
+	To export the current mocap and scene to Blender locate the *export* panel and enter a folder name where the files will be written and then pressing *export*:
 	<p align="center">
 	 <img width="15%" height="15%" src="/img/panel ui export.png">
 	</p>
