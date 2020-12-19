@@ -6,7 +6,8 @@
   <a href="">
      <img width="50%" height="15%" src="img/aps sdk avatar builder main.png">
   </a>
+</p>
 
-
-
-[Adding Custom Props](apssdk_part2.md) (Part 2)
+<p align="center">
+  [Adding Custom Props](apssdk_part2.md) (Part 2)
+</p>
