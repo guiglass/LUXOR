@@ -8,7 +8,7 @@
   </a>
 </p>
 
-**Installing the ASP SDK into a new Unity project
+**Installing the ASP SDK into a new Unity project**
 
 Download the latest [APS_SDK](https://github.com/guiglass/LUXOR/blob/gh-pages/APS_SDK.unitypackage?raw=true)
 
