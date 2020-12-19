@@ -62,7 +62,7 @@
 	<br><br>
 	
 	<b>VR Center Console</b>
-	- The menu in VR also provids an *export* panel and can be used to export the current scene to Blener files:
+	- The menu in VR also provides an *export* panel and can be used to export the current scene to Blener files:
 	<p align="center">
 		<img width="15%" height="15%" src="/img/panel vr export.png">
 	</p>
