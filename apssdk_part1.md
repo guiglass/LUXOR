@@ -1,4 +1,4 @@
-[< Main Page](https://github.com/guiglass/LUXOR/blob/gh-pages/index.md)
+[< Main Page](index.md)
 
 # Adding Custom Avatars (APS SDK Part 1)
 
@@ -9,4 +9,4 @@
 
 
 
-[Adding Custom Props (APS SDK Part 2)](apssdk_part2.md)
+[Adding Custom Props](apssdk_part2.md) (Part 2)
