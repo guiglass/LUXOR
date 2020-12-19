@@ -53,7 +53,7 @@
 	 <img width="15%" height="15%" src="/img/sidekick slew controls.png">
 	</p>
    </details>
-<div id="How-do-I-export-to-Blender"> </div>
+
 - **How do I export my scene to Blender?**
   <details><summary>Users can export the current recoreded scenes as blender files from the "export" panel.</summary>
 	🍎 To export the current mocap and scene to Blender locate the *export* panel and enter a folder name where the files will be written and then pressing *export*:
