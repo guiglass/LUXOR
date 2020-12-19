@@ -68,7 +68,7 @@
 	</p>
 	
 	<b>VR Center Console</b>
-	- While wearing the HMD open the menu by pressing the menu button on the controller. Then locate the *export* panel by navigating to Addons>Scenes. Enter a folder name where the files should be written. Then ensure mocap is playing in the scene before pressing the *export* button to export the current scene as:
+	- While wearing the HMD open the center console by pressing the menu button on the controller. Then locate the *export* panel by navigating to Addons>Scenes. Enter a folder name where the files should be written. Then ensure mocap is playing in the scene before pressing the *export* button to export the current scene as:
 	<p align="center">
 		<img width="15%" height="15%" src="/img/panel vr export.png">
 	</p>
