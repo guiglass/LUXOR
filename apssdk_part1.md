@@ -3,7 +3,7 @@
 # Adding Custom Avatars (APS SDK Part 1)
 
 <p align="center">
-  <a href="">
+  <a href="img/aps sdk avatar builder main.png">
      <img width="50%" height="15%" src="img/aps sdk avatar builder main.png">
   </a>
 </p>
