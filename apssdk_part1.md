@@ -12,7 +12,7 @@
 
 Download the latest [APS_SDK](https://github.com/guiglass/LUXOR/blob/gh-pages/APS_SDK.unitypackage?raw=true)
 
-<div style="color:blue;font-size:18px;>
+<div style="color:blue;font-size:18px;">
 Alternatively you can locate a copy of the APS SDK included in the application storage directory at:
 
 *%USERPROFILE%\AppData\LocalLow\Animation Prep Studios\LUXOR\Addons\APS SDK Unity*
