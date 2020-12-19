@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="img/aps sdk avatar builder main.png">
-     <img width="50%" height="15%" src="img/aps sdk avatar builder main.png">
+     <img width="50%"  src="img/aps sdk avatar builder main.png">
   </a>
 </p>
 
@@ -22,9 +22,16 @@ Download the latest [APS_SDK.unitypackage](https://github.com/guiglass/LUXOR/blo
 
 <p align="center">
   <a href="img/avatar menu.png">
-     <img width="50%" height="15%" src="img/avatar menu.png">
+     <img width="50%" src="img/avatar menu.png">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/guiglass/LUXOR/gh-pages/img/new%20project.png">
+     <img width="50%" src="https://raw.githubusercontent.com/guiglass/LUXOR/gh-pages/img/new%20project.png">
+  </a>
+</p>
+
 
 
 <p align="center">
