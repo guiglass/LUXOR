@@ -30,7 +30,7 @@ After installing Unity and opeining Unity hub click on New project and ensure to
      <img width="50%" src="https://raw.githubusercontent.com/guiglass/LUXOR/gh-pages/img/new%20project.png">
   </a>
 </p>
-<sub>You may optionally wish to stick to a standardized naming convention such as by prepending <b>APS_SDK_</b> to the begining of the project's name whenever creating a project to be used for building assets. The project name should also take into consideration if it will be used for creating an individual asset or batches of assets. For example, whenever I start a project for creating assets in batches I will typically name the project something similar to <b>APS_SDK_BATCH_MyCoolAssets</b>.
+<sub>You may optionally wish to stick to a standardized naming convention when creating new projects such as by prepending <b>APS_SDK_</b> to the begining of the project's name whenever creating a project to be used for building assets. The project name should also take into consideration if it will be used for creating an individual asset or batches of assets. For example, whenever I start a project for creating assets in batches I will typically name the project something similar to <b>APS_SDK_BATCH_MyCoolAssets</b>.
 </sub>
 <br><br>
 
