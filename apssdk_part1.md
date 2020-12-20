@@ -17,7 +17,7 @@ Download [Unity 2019.4](https://unity3d.com/unity/whats-new/2019.4.16)
  - The APS SDK is compatible with Unity 2018.4.20f1 for users who are also working with the VRCSDK.
 
 Download [Blender](https://www.blender.org/download/)
- - Blender(2.79b) or Blender(2.8 and above) are both compatible but be consistent and keep in mind that Blender is not backwards compatible.
+ - Blender(2.79b) or Blender(2.8 and above) are both compatible but be consistent and keep in mind that Blender's not backwards compatible.
  - It is okay to create assets using Blender(2.79b) and later render them in Blender(2.8+).
 
 Download the latest [APS_SDK.unitypackage](https://github.com/guiglass/LUXOR/blob/gh-pages/APS_SDK.unitypackage?raw=true)
