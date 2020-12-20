@@ -21,7 +21,7 @@ Download [Blender](https://www.blender.org/download/)
  - It is okay to create assets using Blender(2.79b) and later render them in Blender(2.8+).
 
 Download the latest [APS_SDK.unitypackage](https://github.com/guiglass/LUXOR/blob/gh-pages/APS_SDK.unitypackage?raw=true)
- - Alternatively LUXOR includes a copy of APS_SDK.unitypackage in the <sub><sup>%USERPROFILE%\AppData\LocalLow\Animation Prep Studios\LUXOR\Addons\APS SDK Unity</sup></sub> application folder.
+ - A copy of the APS_SDK.unitypackage is included at the <sub><sup>%USERPROFILE%\AppData\LocalLow\Animation Prep Studios\LUXOR\Addons\APS SDK Unity</sup></sub> application folder.
  
 After installing Unity and opeining Unity hub click on New project and ensure to have selected the proper Unity version from the dropdown:
 
