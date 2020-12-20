@@ -35,6 +35,28 @@ After installing Unity and opeining Unity hub click on New project and ensure to
 <br><br>
 
 
+<p align="center">
+  <a href="img/avatar menu.png">
+     <img width="50%" src="img/import sdk.png">
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="img/avatar menu.png">
+     <img width="50%" src="img/importing scripts.png">
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="img/avatar menu.png">
+     <img width="50%" src="img/update unity api.png">
+  </a>
+</p>
+
+
+
 More coming soon..
 
 <p align="center">
