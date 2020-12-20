@@ -16,9 +16,13 @@ Download [Unity 2019.4](https://unity3d.com/unity/whats-new/2019.4.16)
  - Unity 2020 is not supported!
  - The APS SDK is compatible with Unity 2018.4.20f1 for users who are also working with the VRCSDK.
 
+Download [Blender](https://www.blender.org/download/)
+ - Blender(2.79b) or Blender(2.8 and above) are both compatible but consistent and mindful that Blender is not backwards compatible.
+ - It is okay to create assets using Blender(2.79b) and later render them in Blender(2.8+).
 
 Download the latest [APS_SDK.unitypackage](https://github.com/guiglass/LUXOR/blob/gh-pages/APS_SDK.unitypackage?raw=true)
-
+ - Alternatively LUXOR includes a copy of the APS_SDK in the program's *\LUXOR\Addons\APS SDK Unity* folder.
+ 
 After installing Unity and opeining Unity hub click on New project and ensure to have selected the proper Unity version from the dropdown:
 
 <p align="center">
