@@ -32,9 +32,9 @@ After installing Unity and opeining Unity hub click on New project and ensure to
 </p>
 <sub>You may optionally wish to use a standardized naming convention when creating new projects such as by prepending <b>APS_SDK_</b> to the begining of the project's name whenever creating a project to be used for building assets. The project name should also take into consideration if it will be used for creating an individual asset or batches of assets. For example, when I start a new Unity project for creating assets in batches I will typically name the project something similar to <b>APS_SDK_BATCH_MyCoolAvatars</b>.
 </sub>
+
+
 <br><br>
-
-
 <p align="center">
   <a href="img/avatar menu.png">
      <img width="50%" src="img/import sdk.png">
@@ -43,7 +43,7 @@ After installing Unity and opeining Unity hub click on New project and ensure to
   Place the APS_SDK.unityasset into the new Unity project and click on import.
 </p>
 
-
+<br><br>
 <p align="center">
   <a href="img/avatar menu.png">
      <img width="50%" src="img/importing scripts.png">
@@ -52,7 +52,7 @@ After installing Unity and opeining Unity hub click on New project and ensure to
   Allow the package to be decompressed and imported into the project.
 </p>
 
-
+<br><br>
 <p align="center">
   <a href="img/avatar menu.png">
      <img width="50%" src="img/update unity api.png">
@@ -61,7 +61,7 @@ After installing Unity and opeining Unity hub click on New project and ensure to
   If you encounter the Unity API Update Required just click Go Ahead!
 </p>
 
-
+<br><br>
 <p align="center">
   <a href="img/avatar menu.png">
      <img width="50%" src="img/avatar menu.png">
@@ -72,7 +72,7 @@ After installing Unity and opeining Unity hub click on New project and ensure to
 
 
 
-
+<br><br>
 <p align="center">
   <a href="apssdk_part2.md">Adding Custom Props</a> (Part 2)
 </p>
