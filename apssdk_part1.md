@@ -30,7 +30,7 @@ After installing Unity and opeining Unity hub click on New project and ensure to
      <img width="50%" src="https://raw.githubusercontent.com/guiglass/LUXOR/gh-pages/img/new%20project.png">
   </a>
 </p>
-<sub>You may optionally wish to stick to a standardized naming convention when creating new projects such as by prepending <b>APS_SDK_</b> to the begining of the project's name whenever creating a project to be used for building assets. The project name should also take into consideration if it will be used for creating an individual asset or batches of assets. For example, when I start a new Unity project for creating assets in batches I will typically name the project something similar to <b>APS_SDK_BATCH_MyCoolAvatars</b>.
+<sub>You may optionally wish to use a standardized naming convention when creating new projects such as by prepending <b>APS_SDK_</b> to the begining of the project's name whenever creating a project to be used for building assets. The project name should also take into consideration if it will be used for creating an individual asset or batches of assets. For example, when I start a new Unity project for creating assets in batches I will typically name the project something similar to <b>APS_SDK_BATCH_MyCoolAvatars</b>.
 </sub>
 <br><br>
 
@@ -40,6 +40,7 @@ After installing Unity and opeining Unity hub click on New project and ensure to
      <img width="50%" src="img/import sdk.png">
   </a>
 </p>
+Move the APS_SDK.unityasset into the Unity editor and click on import.
 
 
 <p align="center">
@@ -48,6 +49,7 @@ After installing Unity and opeining Unity hub click on New project and ensure to
   </a>
 </p>
 
+Allow the package to be decompressed and imported into the project.
 
 <p align="center">
   <a href="img/avatar menu.png">
@@ -55,9 +57,7 @@ After installing Unity and opeining Unity hub click on New project and ensure to
   </a>
 </p>
 
-
-
-More coming soon..
+If you encounter the Unity API Update Required just click Go Ahead!
 
 <p align="center">
   <a href="img/avatar menu.png">
@@ -66,8 +66,6 @@ More coming soon..
 </p>
 
 
-
-More coming soon..
 
 
 <p align="center">
