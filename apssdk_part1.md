@@ -56,7 +56,7 @@ After installing Unity and opeining Unity hub click on New project and ensure to
 
 
 <p align="center">
-    If you encounter the Unity API Update Required just click Go Ahead!
+    If you encounter the Unity API Update Required click Go Ahead:
   <br>
   <a href="img/update unity api.png">
      <img width="50%" src="img/update unity api.png">
@@ -65,9 +65,8 @@ After installing Unity and opeining Unity hub click on New project and ensure to
 
 
 <p align="center">
-
   Once the package has completed importing locate the APS_SDK menu and select Avatar Builder:
-      <br>
+  <br>
   <a href="img/avatar menu.png">
      <img width="50%" src="img/avatar menu.png">
   </a>
