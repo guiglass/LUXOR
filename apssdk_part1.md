@@ -61,7 +61,7 @@ After clicking Create and allowing the project to load locate and add the APS_SD
 
 
 The APS_SDK should now be installed in the new project. The next step is to build the actual humanoid avatar from a source model.
-Thre are two types of files that can be used as a source models when using the APS_SDK. The first type is .fbx which after being added to the project it is also required to configure the asset as a Humanoid and ensure that Unity's Humanoid configuration is properly mapped to the correct bones.
+Thre are two types of files that can be supplied as a source models when using the APS_SDK. The first type is .fbx which after being added to the project it is also required to configure the asset as a Humanoid and ensure that Unity's Humanoid configuration is properly mapped to the correct bones.
 
 <div id="building-avatars-from-fbx"></div>
 
@@ -85,8 +85,6 @@ Thre are two types of files that can be used as a source models when using the A
 ## Avatars from **.blend** models 
 
 The APS_SDK includes an Auto Avatar Importer tool for building avatars from known conventions such as CC3 and Makehuman. To use the Auto Avatar Importer tool the user should save their humanoid source models as a .blend file. 
-Thre are two types of files that can be supplied as a source models when using the APS_SDK. The first type is .fbx which after being added to the project it is also required to configure the asset as a Humanoid and ensure that Unity's Humanoid configuration is properly mapped to the correct bones.
-
 
 The Auto Avatar Importer is compatible with several starndard skeleton types. The Auto Avatar Builder includes automation that simplifies the process of adding and importing avatars into the Unity editor and preparing them as an asset for LUXOR.
 
