@@ -42,7 +42,7 @@ After clicking Create and allowing the project to load locate and add the APS_SD
      <img width="50%" src="img/import sdk.png">
   </a>
   <br>
-  Open the asset in Unity and click on Import.
+  <sub><sup>Open the asset in Unity and click on Import.</sup></sub>
 </p>
 
 <br><br>
@@ -56,7 +56,7 @@ After clicking Create and allowing the project to load locate and add the APS_SD
   </a>
 </p>
 
-<br><br>
+
 <p align="center">
     If you encounter the Unity API Update Required just click Go Ahead!
   <br>
@@ -65,7 +65,7 @@ After clicking Create and allowing the project to load locate and add the APS_SD
   </a>
 </p>
 
-<br><br>
+
 <p align="center">
 
   Once the package has completed importing locate the APS_SDK menu and select Avatar Builder:
