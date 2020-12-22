@@ -80,6 +80,20 @@ Locate the APS_SDK menu and select Avatar Builder:
 
 
 <br><br>
+
+## Compatible Skeleton Rigs (Auto Avatar Importer)
+|   Compatible Skeletons |   Expressions   |    Face Capture     |
+| :-------------| :-------------: | :-------------: |      
+|  Makehuman    |     Yes            |  Yes            |
+|  CC3          |     Yes            |  Yes             |
+|  Daz3D (Gen2) |     No             |  No             |
+|  Daz3D (Gen3) |     No             |  No             |
+|  Mixamo       |     Partial        |  Yes             |
+|  Fuse CC      |     Yes            |  Yes             |
+
+
+
+<br><br>
 <p align="center">
   <a href="apssdk_part2.md">Adding Custom Props</a> (Part 2)
 </p>
