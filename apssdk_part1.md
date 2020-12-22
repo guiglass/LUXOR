@@ -75,6 +75,24 @@ If you see the Unity API Update Required click Go Ahead:
 
 ## Avatars from **.blend** models 
 
+The Auto Avatar Importer is compatible with several starndard skeleton types. The Auto Avatar Builder includes automation that simplifies the process of adding and importing avatars into the Unity editor and preparing them as an asset for LUXOR.
+
+There are some advantages to using the Auto Avatar Builder to import an avatar from .blend files. For example if the souce avatar *.blend* contains a standard CC3 armature and standard named blendshapes then after opening and processing the model the Auto Avatar Builder will auto-map the VisemesLinker and the FacecapLinker using predefined templates. And will automatically create an assortment of emotes and facial expressions for the avatar.
+
+
+### Compatible Skeleton Rigs (Auto Avatar Importer)
+|   Compatible Skeletons |  Includes Expressions   |  Automap Face Capture  |
+| :-------------| :-------------: | :-------------: |   
+|  CC3          |     Yes            |  Yes             |
+|  Fuse CC      |     Yes            |  Yes             |
+|  Makehuman    |     Yes            |  Yes            |
+|  Mixamo       |     Partial        |  Yes             |
+|  Rigify      |     No            |  No             |
+|  Daz3D (Gen2) |     No             |  No             |
+|  Daz3D (Gen3) |     No             |  No             |
+
+
+<br><br>
 Locate the APS_SDK menu and select Avatar Builder:
 <br>
 <p align="center">
@@ -82,20 +100,6 @@ Locate the APS_SDK menu and select Avatar Builder:
      <img width="50%" src="img/avatar menu.png">
   </a>
 </p>
-
-
-<br><br>
-
-### Compatible Skeleton Rigs (Auto Avatar Importer)
-|   Compatible Skeletons |   Expressions   |    Face Capture     |
-| :-------------| :-------------: | :-------------: |      
-|  Makehuman    |     Yes            |  Yes            |
-|  CC3          |     Yes            |  Yes             |
-|  Daz3D (Gen2) |     No             |  No             |
-|  Daz3D (Gen3) |     No             |  No             |
-|  Mixamo       |     Partial        |  Yes             |
-|  Fuse CC      |     Yes            |  Yes             |
-
 
 
 <br><br>
