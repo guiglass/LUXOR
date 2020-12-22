@@ -97,7 +97,7 @@ There are some advantages to using the Auto Avatar Builder to import an avatar u
  * An assortment of facial <a href="img/emotes.png">EmotionBuilder</a> facialexpressions will be generated for some avatar types.
  * Using .blend source models allows more flexibility when creating final renders and Blender scenes when using the SceneLoader. 
 
-### Compatible Skeleton Rigs (Auto Avatar Importer)
+### Auto Avatar Importer Compatible Skeletons
 |   Compatible Skeletons |  Emotes Templates  |  Facecap Templates  | Visemes Templates |
 | :-------------| :-------------: | :-------------: |    :-------------: | 
 |  CC3          |     Yes            |  Yes             | Yes             |
