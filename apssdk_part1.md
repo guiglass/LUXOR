@@ -11,7 +11,7 @@
 
 ## TLDR
 
-It is possible to create avatars using <a href="#user-content-compatible-skeleton-rigs-auto-avatar-importer">**.fbx**</a> files.<br>
+It is possible to create avatars using <a href="#user-content-compatible-building-avatars-from-blend">**.fbx**</a> files.<br>
 It's also possible to create avatars using <a href="#user-content-building-avatars-from-fbx">**.blend**</a> files with the Auto Avatar Importer
 
 
@@ -68,7 +68,7 @@ If you see the Unity API Update Required click Go Ahead:
 </p>
 
 
-## Avatars from **.fbx** models <div id="building avatars from fbx"></div>
+## Avatars from **.fbx** models <div id="building-avatars-from-fbx"></div>
 
 
 ## Avatars from **.blend** models <div id="building avatars from blend"></div>
