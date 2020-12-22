@@ -67,11 +67,11 @@ If you see the Unity API Update Required click Go Ahead:
   </a>
 </p>
 
+<div id="building-avatars-from-fbx"></div>
+## Avatars from **.fbx** models 
 
-## Avatars from **.fbx** models <div id="building-avatars-from-fbx"></div>
-
-
-## Avatars from **.blend** models <div id="building-avatars-from-blend"></div>
+<div id="building-avatars-from-blend"></div>
+## Avatars from **.blend** models 
 
 Locate the APS_SDK menu and select Avatar Builder:
 <br>
