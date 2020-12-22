@@ -8,12 +8,12 @@
   </a>
 </p>
 
-##TLDR##
+##TLDR
 It is possible to build avatars using .fbx files, or by using the auto avatar builder for building avatars using .blend files containing a model with a standard skeleton.
 
 
 
-##Installing the ASP SDK into a new Unity project##
+##Installing the ASP SDK into a new Unity project
 
 Download [Unity 2019.4](https://unity3d.com/unity/whats-new/2019.4.16)
  - Unity 2020 is not supported!
@@ -65,10 +65,10 @@ If you see the Unity API Update Required click Go Ahead:
 </p>
 
 
-##Build an avatar from .fbx models##
+##Build an avatar from .fbx models
 
 
-##Build an avatar from .blend models##
+##Build an avatar from .blend models
 
 Locate the APS_SDK menu and select Avatar Builder:
 <br>
@@ -81,7 +81,7 @@ Locate the APS_SDK menu and select Avatar Builder:
 
 <br><br>
 
-### Compatible Skeleton Rigs (Auto Avatar Importer)###
+### Compatible Skeleton Rigs (Auto Avatar Importer)
 |   Compatible Skeletons |   Expressions   |    Face Capture     |
 | :-------------| :-------------: | :-------------: |      
 |  Makehuman    |     Yes            |  Yes            |
