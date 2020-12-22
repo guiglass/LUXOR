@@ -82,7 +82,7 @@ There are some advantages to using the Auto Avatar Builder to import an avatar f
 
 ### Compatible Skeleton Rigs (Auto Avatar Importer)
 |   Compatible Skeletons |  Emotes Templates  |  Automap Facecap  | Automap Visemes |
-| :-------------| :-------------: | :-------------: |   
+| :-------------| :-------------: | :-------------: |    :-------------: | 
 |  CC3          |     Yes            |  Yes             | Yes             |
 |  Fuse CC      |     Yes            |  Yes             | Yes             |
 |  Makehuman    |     Yes            |  Yes            | Yes             |
