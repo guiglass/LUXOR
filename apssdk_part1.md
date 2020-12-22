@@ -73,19 +73,11 @@ After clicking Create and allowing the project to load locate and add the APS_SD
 </p>
     Allow the package to decompress and be imported into the project:
   <br>
-<p align="center">
-  <a href="img/importing scripts.png">
-     <img width="50%" src="img/importing scripts.png">
-  </a>
-</p>
+
 
 
 
 <div id="building-avatars-from-blend"></div>
-
-
-### Adding avatars from .fbx :
-
 
 ## Avatars from **.blend** models 
 
