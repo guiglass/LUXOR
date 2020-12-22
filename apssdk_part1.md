@@ -72,9 +72,9 @@ Once the package has completed importing the should be a new menu named APS_SDK.
   </a>
 </p>
 
-<p align="center"><h1>avatars from .fbx models.</h1></p>
-
-
+<h1>
+<p align="center"><h1>avatars from .fbx models.</p>
+</h1>
 
 <br><br>
 <p align="center">
