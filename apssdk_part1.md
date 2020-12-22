@@ -11,8 +11,8 @@
 
 ## TLDR
 
-It is possible to create avatars using .fbx files.<br>
-It is also possible to create avatars using .blend files with the Auto Avatar Importer
+It is possible to create avatars using **.fbx** files.<br>
+It's also possible to create avatars using **.blend** files with the Auto Avatar Importer
 
 
 
@@ -68,10 +68,10 @@ If you see the Unity API Update Required click Go Ahead:
 </p>
 
 
-## Avatars from **.fbx** models
+## Avatars from **.fbx** models <div id="building avatars from fbx"></div>
 
 
-## Avatars from **.blend** models
+## Avatars from **.blend** models <div id="building avatars from blend"></div>
 
 Locate the APS_SDK menu and select Avatar Builder:
 <br>
