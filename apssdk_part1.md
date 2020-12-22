@@ -91,6 +91,11 @@ There are some advantages to using the Auto Avatar Builder to import an avatar f
 |  Daz3D (Gen2) |     No             |  No             | No             |
 |  Daz3D (Gen3) |     No             |  No             | No             |
 
+* Compatible Skeletons - 
+* Emotes Templates -
+* Automap Facecap - 
+* Automap Visemes -
+
 
 
 <br><br>
