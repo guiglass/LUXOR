@@ -60,6 +60,9 @@ After clicking Create and allowing the project to load locate and add the APS_SD
 </p>
 
 
+The APS_SDK should now be installed in the new project. The next step is to build the actual humanoid avatar from a source model.
+Thre are two types of files that can be used as a source models when using the APS_SDK. The first type is .fbx which after being added to the project it is also required to configure the asset as a Humanoid and ensure that Unity's Humanoid configuration is properly mapped to the correct bones.
+
 <div id="building-avatars-from-fbx"></div>
 
 ## Avatars from **.fbx** models 
@@ -81,10 +84,17 @@ After clicking Create and allowing the project to load locate and add the APS_SD
 
 ## Avatars from **.blend** models 
 
+The APS_SDK includes an Auto Avatar Importer tool for building avatars from known conventions such as CC3 and Makehuman. To use the Auto Avatar Importer tool the user should save their humanoid source models as a .blend file. 
+Thre are two types of files that can be used as a source models when using the APS_SDK. The first type is .fbx which after being added to the project it is also required to configure the asset as a Humanoid and ensure that Unity's Humanoid configuration is properly mapped to the correct bones.
+
+
 The Auto Avatar Importer is compatible with several starndard skeleton types. The Auto Avatar Builder includes automation that simplifies the process of adding and importing avatars into the Unity editor and preparing them as an asset for LUXOR.
 
-There are some advantages to using the Auto Avatar Builder to import an avatar from .blend files. For example if the souce avatar *.blend* contains a standard CC3 armature and standard named blendshapes then after opening and processing the model the Auto Avatar Builder will auto-map the VisemesLinker and the FacecapLinker using predefined templates. And will automatically create an assortment of emotes and facial expressions for the avatar.
-
+There are some advantages to using the Auto Avatar Builder to import an avatar using a .blend file. 
+ * The Humanoid configuration in Unity is automatically mapped to the correct bones if for example the souce avatar *.blend* contains a standard CC3 (or other supported) armature.
+ * The Auto Avatar Builder will add auto-mapped VisemesLinker (lipsync) and a FacecapLinker using predefined templates for some avatrar types. 
+ * An assortment of facial EmotionBuilder facialexpressions will be generated for some avatar types.
+ * Using .blend source models allows more flexibility when creating final renders and Blender scenes when using the SceneLoader. 
 
 ### Compatible Skeleton Rigs (Auto Avatar Importer)
 |   Compatible Skeletons |  Emotes Templates  |  Facecap Templates  | Visemes Templates |
