@@ -98,7 +98,7 @@ There are some advantages to using the Auto Avatar Builder for importing an avat
 ### Auto Avatar Importer Compatible Skeletons
 |   Compatible Skeletons |  Emotes Templates  |  Facecap Templates  | Visemes Templates |
 | :-------------| :-------------: | :-------------: |    :-------------: | 
-|  <ahref="https://www.reallusion.com/character-creator/">CC3</a>          |     Yes            |  Yes             | Yes             |
+|  <a href="https://www.reallusion.com/character-creator/">CC3</a>          |     Yes            |  Yes             | Yes             |
 |  Fuse CC      |     Yes            |  Yes             | Yes             |
 |  Makehuman    |     Yes            |  Yes            | Yes             |
 |  Mixamo       |     Partial        |  Yes             | No             |
