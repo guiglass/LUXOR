@@ -110,8 +110,7 @@ There are some advantages to using the Auto Avatar Builder for importing an avat
 * Emotes Templates - Addes <a href="img/emotes.png">EmotionBuilder.cs</a> components for setting up avatars with an assortment of default facial expressions.
 * Facecap Templates - Adds a <a href="img/facecapLinker.png">FacecapLinker.cs</a> component and automaps known blendshapes to setup avatars for facial capture.
 * Visemes Templates - Adds a <a href="img/visemeLinker.png">VisemeLinker.cs</a> component and automaps known blendshapes to setup avatars for microphone lipsync.
-
-
+* Tutorial - Resources explaining how to build specific avatar types for LUXOR.
 
 <br><br>
 Locate the APS_SDK menu and select Avatar Builder:
