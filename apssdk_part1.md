@@ -77,7 +77,13 @@ Thre are two types of files that can be supplied as a source models when using t
     Allow the package to decompress and be imported into the project:
   <br>
 
-
+<p align="center">
+  <a href="img/add fbx to scene.png">
+     <img width="50%" src="img/add fbx to scene.png">
+  </a>
+  <br>
+  <sub><sup>Add the .fbx to the scene.</sup></sub>
+</p>
 
 
 <div id="building-avatars-from-blend"></div>
