@@ -92,9 +92,9 @@ There are some advantages to using the Auto Avatar Builder to import an avatar f
 |  Daz3D (Gen3) |     No             |  No             | No             |
 
 * Compatible Skeletons - Many character creator programs export their rigs with standard naming conventions.
-* Emotes Templates - Addes EmotionBuilders components for setting up avatars with an assortment of default facial expressions.
-* Facecap Templates - Adds a FacecapLinker component and automaps known blendshapes to setup avatars for facial capture.
-* Visemes Templates - Adds a VisemeLinker component and automaps known blendshapes to setup avatars for microphone lipsync.
+* Emotes Templates - Addes <a href="img/emotes.png">EmotionBuilder.cs</a> components for setting up avatars with an assortment of default facial expressions.
+* Facecap Templates - Adds a <a href="img/facecapLinker.png">FacecapLinker.cs</a> component and automaps known blendshapes to setup avatars for facial capture.
+* Visemes Templates - Adds a <a href="img/visemeLinker.png">VisemeLinker.cs</a> component and automaps known blendshapes to setup avatars for microphone lipsync.
 
 
 
