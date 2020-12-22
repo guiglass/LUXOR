@@ -66,9 +66,13 @@ After clicking Create and allowing the project to load locate and add the APS_SD
 
 <div id="building-avatars-from-blend"></div>
 
-### Adding avatars from .fbx :
-[![Youtube Tutorial](https://img.youtube.com/vi/oEwkhIr4ffw/0.jpg)](https://youtu.be/oEwkhIr4ffw)
 
+### Adding avatars from .fbx :
+<p align="center">
+  <a href="https://youtu.be/oEwkhIr4ffw">
+     <img width="50%" src="https://img.youtube.com/vi/oEwkhIr4ffw/0.jpg">
+  </a>
+</p>
 
 
 ## Avatars from **.blend** models 
