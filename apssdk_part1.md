@@ -86,7 +86,7 @@ Thre are two types of files that can be supplied as a source models when using t
 
 The APS_SDK includes an Auto Avatar Importer tool for building avatars from known conventions such as CC3 and Makehuman. To use the Auto Avatar Importer tool the user should save their humanoid source models as a .blend file. 
 
-The Auto Avatar Importer is compatible with several starndard skeleton types. The Auto Avatar Builder includes automation that simplifies the process of adding and importing avatars into the Unity editor and preparing them as an asset for LUXOR.
+The Auto Avatar Importer is compatible with several starndard skeleton types and includes automation that simplifies the process of adding and importing avatars into the Unity editor and preparing them as an asset for LUXOR and final rendering in Blender.
 
 There are some advantages to using the Auto Avatar Builder to import an avatar using a .blend file. 
  * The Humanoid configuration in Unity is automatically mapped for all supported avatrar types.
