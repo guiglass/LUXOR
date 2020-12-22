@@ -92,8 +92,8 @@ The Auto Avatar Importer is compatible with several starndard skeleton types. Th
 
 There are some advantages to using the Auto Avatar Builder to import an avatar using a .blend file. 
  * The Humanoid configuration in Unity is automatically mapped for all supported avatrar types.
- * Adds auto-mapped VisemesLinker (lipsync) and a FacecapLinker using predefined templates for some avatrar types. 
- * An assortment of facial EmotionBuilder facialexpressions will be generated for some avatar types.
+ * Adds auto-mapped <a href="img/visemeLinker.png">VisemeLinker.cs</a> (lipsync) and a <a href="img/facecapLinker.png">FacecapLinker.cs</a> using predefined templates for some avatrar types. 
+ * An assortment of facial <a href="img/emotes.png">EmotionBuilder.cs</a> facialexpressions will be generated for some avatar types.
  * Using .blend source models allows more flexibility when creating final renders and Blender scenes when using the SceneLoader. 
 
 ### Compatible Skeleton Rigs (Auto Avatar Importer)
