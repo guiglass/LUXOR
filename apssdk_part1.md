@@ -11,8 +11,8 @@
 
 ## TLDR
 
-It is possible to create avatars using **.fbx** files.<br>
-It's also possible to create avatars using **.blend** files with the Auto Avatar Importer
+It is possible to create avatars using <a href="#user-content-compatible-skeleton-rigs-auto-avatar-importer">**.fbx**</a> files.<br>
+It's also possible to create avatars using <a href="#user-content-building-avatars-from-fbx">**.blend**</a> files with the Auto Avatar Importer
 
 
 
