@@ -66,10 +66,10 @@ If you see the Unity API Update Required click Go Ahead:
 </p>
 
 
-## Build an avatar from .fbx models
+## Avatars from **.fbx** models
 
 
-## Build an avatar from .blend models
+## Avatars from **.blend** models
 
 Locate the APS_SDK menu and select Avatar Builder:
 <br>
