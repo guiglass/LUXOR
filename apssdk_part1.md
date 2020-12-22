@@ -88,7 +88,7 @@ The APS_SDK includes an Auto Avatar Importer tool for building avatars from know
 
 The Auto Avatar Importer is compatible with several starndard skeleton types and includes automation that simplifies the process of adding and importing avatars into the Unity editor and preparing them as an asset for LUXOR and final rendering in Blender.
 
-There are some advantages to using the Auto Avatar Builder to import an avatar from a .blend file. 
+There are some advantages to using the Auto Avatar Builder for importing an avatar from a .blend file. 
  * The Humanoid configuration in Unity is automatically mapped for all supported avatrar types.
  * Adds auto-mapped <a href="img/visemeLinker.png">VisemeLinker</a> (lipsync) using predefined templates for some avatrar types. 
  * Adds auto-mapped <a href="img/facecapLinker.png">FacecapLinker</a> using predefined templates for some avatrar types. 
