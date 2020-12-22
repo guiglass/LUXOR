@@ -38,7 +38,7 @@ After installing Unity and opeining Unity hub click on New project and ensure to
 Once the new Unity project loads locate and add the APS_SDK.unitypackage asset into the and import 
 <br><br>
 <p align="center">
-  <a href="img/avatar menu.png">
+  <a href="img/import sdk.png">
      <img width="50%" src="img/import sdk.png">
   </a>
   <br>
