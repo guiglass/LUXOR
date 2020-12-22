@@ -45,28 +45,28 @@ After installing Unity and opeining Unity hub click on New project and ensure to
   <br>
   <sub><sup>Open the asset in Unity and click on Import.</sup></sub>
 </p>
-
-<p align="center">
     Allow the package to be decompressed and imported into the project:
   <br>
+<p align="center">
+
   <a href="img/importing scripts.png">
      <img width="50%" src="img/importing scripts.png">
   </a>
 </p>
 
-
-<p align="center">
     If you encounter the Unity API Update Required click Go Ahead:
   <br>
+<p align="center">
+
   <a href="img/update unity api.png">
      <img width="50%" src="img/update unity api.png">
   </a>
 </p>
 
-
-<p align="center">
   Once the package has completed importing locate the APS_SDK menu and select Avatar Builder:
   <br>
+<p align="center">
+
   <a href="img/avatar menu.png">
      <img width="50%" src="img/avatar menu.png">
   </a>
