@@ -11,8 +11,8 @@
 
 ## TLDR
 
-It is possible to create avatars using <a href="#user-content-compatible-building-avatars-from-blend">**.fbx**</a> files.<br>
-It's also possible to create avatars using <a href="#user-content-building-avatars-from-fbx">**.blend**</a> files with the Auto Avatar Importer
+It is possible to create avatars using <a href="#user-content-building-avatars-from-fbx">**.fbx**</a> files.<br>
+It's also possible to create avatars using <a href="#user-content-building-avatars-from-blend">**.blend**</a> files with the Auto Avatar Importer
 
 
 
