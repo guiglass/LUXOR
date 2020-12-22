@@ -91,8 +91,8 @@ Thre are two types of files that can be used as a source models when using the A
 The Auto Avatar Importer is compatible with several starndard skeleton types. The Auto Avatar Builder includes automation that simplifies the process of adding and importing avatars into the Unity editor and preparing them as an asset for LUXOR.
 
 There are some advantages to using the Auto Avatar Builder to import an avatar using a .blend file. 
- * The Humanoid configuration in Unity is automatically mapped to the correct bones if for example the souce avatar *.blend* contains a standard CC3 (or other supported) armature.
- * The Auto Avatar Builder will add auto-mapped VisemesLinker (lipsync) and a FacecapLinker using predefined templates for some avatrar types. 
+ * The Humanoid configuration in Unity automatically mapped for supported avatrar types.
+ * Adds auto-mapped VisemesLinker (lipsync) and a FacecapLinker using predefined templates for some avatrar types. 
  * An assortment of facial EmotionBuilder facialexpressions will be generated for some avatar types.
  * Using .blend source models allows more flexibility when creating final renders and Blender scenes when using the SceneLoader. 
 
