@@ -93,7 +93,7 @@ There are some advantages to using the Auto Avatar Builder for importing an avat
  * Adds an auto-mapped <a href="img/visemeLinker.png">VisemeLinker</a> (lipsync component) using predefined templates *for some avatrar types*. 
  * Adds an auto-mapped <a href="img/facecapLinker.png">FacecapLinker</a> (facecap component) using predefined templates *for some avatrar types*. 
  * Adds assortments of auto-generated <a href="img/emotes.png">EmotionBuilder</a> (facial expressions components) using predefined templates *for some avatar types*.
- * Using .blend source models allows more flexibility when creating final renders and Blender scenes when using the SceneLoader. 
+ * Using .blend source models allows more flexibility in final rendering and importing scenens into Blender using the SceneLoader. 
 
 ### Auto Avatar Importer Compatible Skeletons
 |   Compatible Skeletons |  Emotes Templates  |  Facecap Templates  | Visemes Templates |
