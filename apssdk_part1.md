@@ -45,7 +45,7 @@ After clicking Create and allowing the project to load locate and add the APS_SD
   <br>
   <sub><sup>Open the asset in Unity and click on Import.</sup></sub>
 </p>
-    Allow the package to be decompressed and imported into the project:
+    Allow the package to decompress and be imported into the project:
   <br>
 <p align="center">
   <a href="img/importing scripts.png">
@@ -53,7 +53,7 @@ After clicking Create and allowing the project to load locate and add the APS_SD
   </a>
 </p>
 
-If you encounter the Unity API Update Required click Go Ahead:
+If you see the Unity API Update Required click Go Ahead:
 <br>
 <p align="center">
   <a href="img/update unity api.png">
@@ -61,13 +61,18 @@ If you encounter the Unity API Update Required click Go Ahead:
   </a>
 </p>
 
-Once the package has completed importing locate the APS_SDK menu and select Avatar Builder:
+
+<p align="center">#Building avatars from .blend models.</p>
+
+Once the package has completed importing the should be a new menu named APS_SDK. and select Avatar Builder:
 <br>
 <p align="center">
   <a href="img/avatar menu.png">
      <img width="50%" src="img/avatar menu.png">
   </a>
 </p>
+
+<p align="center">#Building avatars from .fbx models.</p>
 
 
 
