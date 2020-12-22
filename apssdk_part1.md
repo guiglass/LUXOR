@@ -1,7 +1,7 @@
 [< Main Page](index.md)
 
 # Adding Custom Avatars 
-## *APS SDK* Part 1
+**APS SDK Part 1**
 
 <p align="center">
   <a href="img/aps sdk avatar builder main.png">
