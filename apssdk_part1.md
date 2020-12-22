@@ -11,8 +11,8 @@
 
 ## TLDR
 
-It is possible to create avatars using .fbx files.
-It is also possible to create avatars using .blend files with the Auto Avatar Builder
+It is possible to create avatars using .fbx files.<br>
+It is also possible to create avatars using .blend files with the Auto Avatar Importer
 
 
 
