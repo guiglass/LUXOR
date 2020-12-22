@@ -62,9 +62,12 @@ If you see the Unity API Update Required click Go Ahead:
 </p>
 
 
-<h1>Building avatars from .blend models.</h1>
+<h1>Build an avatar from .fbx models.</h1>
 
-Once the package has completed importing the should be a new menu named APS_SDK. and select Avatar Builder:
+
+<h1>Build an avatar from .blend models.</h1>
+
+Locate the APS_SDK menu and select Avatar Builder:
 <br>
 <p align="center">
   <a href="img/avatar menu.png">
@@ -72,9 +75,6 @@ Once the package has completed importing the should be a new menu named APS_SDK.
   </a>
 </p>
 
-<h1>
-<h1>Building avatars from .fbx models.
-</h1>
 
 <br><br>
 <p align="center">
