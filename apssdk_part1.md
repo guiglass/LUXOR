@@ -81,15 +81,16 @@ There are some advantages to using the Auto Avatar Builder to import an avatar f
 
 
 ### Compatible Skeleton Rigs (Auto Avatar Importer)
-|   Compatible Skeletons |  Includes Expressions   |  Automap Face Capture  |
+|   Compatible Skeletons |  Emotes Templates  |  Automap Facecap  | Automap Visemes |
 | :-------------| :-------------: | :-------------: |   
-|  CC3          |     Yes            |  Yes             |
-|  Fuse CC      |     Yes            |  Yes             |
-|  Makehuman    |     Yes            |  Yes            |
-|  Mixamo       |     Partial        |  Yes             |
-|  Rigify      |     No            |  No             |
-|  Daz3D (Gen2) |     No             |  No             |
-|  Daz3D (Gen3) |     No             |  No             |
+|  CC3          |     Yes            |  Yes             | Yes             |
+|  Fuse CC      |     Yes            |  Yes             | Yes             |
+|  Makehuman    |     Yes            |  Yes            | Yes             |
+|  Mixamo       |     Partial        |  Yes             | No             |
+|  Rigify      |     No            |  No             | No             |
+|  Daz3D (Gen2) |     No             |  No             | No             |
+|  Daz3D (Gen3) |     No             |  No             | No             |
+
 
 
 <br><br>
