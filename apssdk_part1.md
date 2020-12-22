@@ -96,15 +96,15 @@ There are some advantages to using the Auto Avatar Builder for importing an avat
  * Using .blend source models allows more flexibility in final rendering and when importing scenens into Blender using the SceneLoader. 
 
 ### Auto Avatar Importer Compatible Skeletons
-|   Compatible Skeletons |  Emotes Templates  |  Facecap Templates  | Visemes Templates |
-| :-------------| :-------------: | :-------------: |    :-------------: | 
-|  <a href="https://www.reallusion.com/character-creator/">CC3</a>          |     Yes            |  Yes             | Yes             |
-|  <a href="https://www.mixamo.com/fuse/1.3/eol">Fuse CC</a>      |     Yes            |  Yes             | Yes             |
-|  <a href="http://www.makehumancommunity.org/">Makehuman</a>    |     Yes            |  Yes            | Yes             |
-|  <a href="https://www.mixamo.com/">Mixamo</a>       |     Partial        |  Yes             | No             |
-|  <a href="https://docs.blender.org/manual/en/2.81/addons/rigging/rigify.html">Rigify</a>      |     No            |  No             | No             |
-|  <a href="https://www.daz3d.com/home">Daz3D (Gen2)</a> |     No             |  No             | No             |
-|  <a href="https://www.daz3d.com/home">Daz3D (Gen3)</a> |     No             |  No             | No             |
+|   Compatible Skeletons |  Emotes Templates  |  Facecap Templates  | Visemes Templates | Tutorial |
+| :-------------| :-------------: | :-------------: | :-------------: |  :-------------: |
+|  <a href="https://www.reallusion.com/character-creator/">CC3</a>                              |     Yes            |  Yes            | Yes          | <a href="https://youtu.be/US4zInM82EM">Video</a> |
+|  <a href="https://www.mixamo.com/fuse/1.3/eol">Fuse CC</a>                                    |     Yes            |  Yes            | Yes          |  |
+|  <a href="http://www.makehumancommunity.org/">Makehuman</a>                                   |     Yes            |  Yes            | Yes          | <a href="https://youtu.be/gRIz8tc7ds8">Video</a> |
+|  <a href="https://www.mixamo.com/">Mixamo</a>                                                 |     Partial        |  Yes            | No           | <a href="https://youtu.be/ykJ7O0Bs8oQ">Video</a> |
+|  <a href="https://docs.blender.org/manual/en/2.81/addons/rigging/rigify.html">Rigify</a>      |     No             |  No             | No           | |
+|  <a href="https://www.daz3d.com/home">Daz3D (Gen2)</a>                                        |     No             |  No             | No           | |
+|  <a href="https://www.daz3d.com/home">Daz3D (Gen3)</a>                                        |     No             |  No             | No           | |
 
 * Compatible Skeletons - Many character creator programs export their rigs with standard naming conventions.
 * Emotes Templates - Addes <a href="img/emotes.png">EmotionBuilder.cs</a> components for setting up avatars with an assortment of default facial expressions.
