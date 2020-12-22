@@ -59,13 +59,6 @@ After clicking Create and allowing the project to load locate and add the APS_SD
   </a>
 </p>
 
-If you see the Unity API Update Required click Go Ahead:
-<br>
-<p align="center">
-  <a href="img/update unity api.png">
-     <img width="50%" src="img/update unity api.png">
-  </a>
-</p>
 
 <div id="building-avatars-from-fbx"></div>
 
