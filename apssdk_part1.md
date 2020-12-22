@@ -91,10 +91,10 @@ There are some advantages to using the Auto Avatar Builder to import an avatar f
 |  Daz3D (Gen2) |     No             |  No             | No             |
 |  Daz3D (Gen3) |     No             |  No             | No             |
 
-* Compatible Skeletons - 
-* Emotes Templates -
-* Automap Facecap - 
-* Automap Visemes -
+* Compatible Skeletons - Many character creator programs export their rigs with standard naming conventions.
+* Emotes Templates - Facial expressions that can be applied to avatars either by trggering or the morph tool.
+* Automap Facecap - Adds a FacecapLinker component and attempt to apply known mappings to setup avatars for facial capture.
+* Automap Visemes - Adds a VisemeLinker component and attempt to apply known mappings to setup avatars for microphone lipsync.
 
 
 
