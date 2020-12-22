@@ -11,7 +11,8 @@
 
 ## TLDR
 
-It is possible to build avatars using .fbx files, or by using the auto avatar builder for building avatars using .blend files containing a model with a standard skeleton.
+It is possible to create avatars using .fbx files.
+It is also possible to create avatars using .blend files with the Auto Avatar Builder
 
 
 
