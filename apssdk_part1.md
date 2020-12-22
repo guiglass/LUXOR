@@ -9,6 +9,7 @@
 </p>
 
 ##TLDR
+
 It is possible to build avatars using .fbx files, or by using the auto avatar builder for building avatars using .blend files containing a model with a standard skeleton.
 
 
