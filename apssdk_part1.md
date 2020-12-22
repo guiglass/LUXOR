@@ -66,6 +66,11 @@ After clicking Create and allowing the project to load locate and add the APS_SD
 
 <div id="building-avatars-from-blend"></div>
 
+### Adding avatars from .fbx :
+[![Youtube Tutorial](https://img.youtube.com/vi/oEwkhIr4ffw/0.jpg)](https://youtu.be/oEwkhIr4ffw)
+
+
+
 ## Avatars from **.blend** models 
 
 The Auto Avatar Importer is compatible with several starndard skeleton types. The Auto Avatar Builder includes automation that simplifies the process of adding and importing avatars into the Unity editor and preparing them as an asset for LUXOR.
