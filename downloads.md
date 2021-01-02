@@ -9,7 +9,7 @@
 </p>
   
 <p align="center">
-  <b><a href=https://drive.google.com/drive/folders/1728cW_OSFzJ1Cjs5SnVK2ibCNaKedSnm> Luxor V3.2.0 </a></b>
+  <b><a href=https://drive.google.com/drive/folders/1728cW_OSFzJ1Cjs5SnVK2ibCNaKedSnm> Luxor V3.2.6 </a></b>
 </p>
 
 ## Other Downloads
