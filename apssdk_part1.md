@@ -70,12 +70,28 @@ Many humanoid models are supported by the APSSDK and can be built into mocap ava
 
 <table>
   <tr>
-    <th></th>
-    <th></th>
+    <th>
+      <a href="img/setup humanoid 1.png">
+         <img width="50%" src="img/setup humanoid 1.png">
+      </a>
+    </th>
+    <th>
+      <a href="img/setup humanoid 2.png">
+         <img width="50%" src="img/setup humanoid 2.png">
+      </a>
+    </th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <th>
+      <a href="img/setup humanoid 3.png">
+         <img width="50%" src="img/setup humanoid 3.png">
+      </a>
+    </th>
+    <th>
+      <a href="img/setup humanoid 4.png">
+         <img width="50%" src="img/setup humanoid 4.png">
+      </a>
+    </th>
   </tr>
 </table> 
 
