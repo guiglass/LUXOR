@@ -66,6 +66,8 @@ There are two types of files that can be supplied as a source models when using 
 <div id="building-avatars-from-fbx"></div>
 
 ## Avatars from **.fbx** models 
+Many humanoid models are supported by the APSSDK and can be built into mocap avatars and used in final rendering. One essential step in creating any Unity avatar is to ensure that the .fbx is setup correctly in the Unity humanoid configuration:
+
 
 <p align="center">
   <a href="img/import fbx.png">
