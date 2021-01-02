@@ -12,7 +12,7 @@
 
 - **Can I use LUXOR without a HMD?**
   <details><summary>Yes, Avatars may be connected to head trackers instead.</summary>
-	🍎 It is possible to connect the avatar to a head tracker without the need for an HMD. This can be acomplished by configuring a tracker to function as a head tracker in the Tracer Setup menu:
+	🍎 It is possible to connect the avatar to a head tracker without the need for an HMD. This can be accomplished by configuring a tracker to function as a head tracker in the Tracer Setup menu:
 	<p align="center">
 		<img width="15%" height="15%" src="/img/tracker setup.png"/>
 	</p>
@@ -58,7 +58,7 @@
   <details><summary>Users may export the current playing scene as Blender friendly files from the "export" panel.</summary>
 	🍎 There are two menus that could be used to export mocap, one panel is located in VR and its twin panel is located on LUXOR's 'desktop UI'. Be sure to have recorded some mocap first and that it is currently playing in the scene before pressing the export button (as LUXOR only exports what is currently being played). 
 	<br><br>
-	In this <a href=https://youtu.be/XdlFtt_F-3Y?t=194>video (at 3:14)</a> shows exporting a scene as animation (.bvh) data and all of the mocap model files for the scene into a new project folder. <i>A new SceneLoader.blend will also be added into this folder which includes a Python automation script</i> that can be used to automatically import and setup the scene for rendereing in Blender using the <i>scene.json</i> meta data and the local assets and animation files..
+	In this <a href=https://youtu.be/XdlFtt_F-3Y?t=194>video (at 3:14)</a> shows exporting a scene as animation (.bvh) data and all of the mocap model files for the scene into a new project folder. <i>A new SceneLoader.blend will also be added into this folder which includes a Python automation script</i> that can be used to automatically import and setup the scene for rendering in Blender using the <i>scene.json</i> meta data and the local assets and animation files..
 	<br><br>
 	
 	<b>LUXOR Desktop</b>
@@ -81,16 +81,16 @@
 		<img width="15%" height="15%" src="/img/mocap_suit.jpg">
 	</p>
 	
-	And two auxilary trackers may be used for props and VR cameras.
+	And two auxiliary trackers may be used for props and VR cameras.
    </details>
 - **What versions of Unity and Blender should I be using?**
-  <details><summary>Recomended versions are Unity 2019.4 and Blender 2.8+.</summary>
-	🍎 It's recomended to use Unity 2019.4 with the APS_SDK however other versions are compatible and the APS_SDK can be used with Unity 2018.4.20f1 (for backwards compatibility with vrchat). *The APS_SDK is not compatible with Unity 2020!*
-	- Using Blender 2.8 is recomended, however 2.79 is mostly supported.
+  <details><summary>Recommended versions are Unity 2019.4 and Blender 2.8+.</summary>
+	🍎 It's recommended to use Unity 2019.4 with the APS_SDK however other versions are compatible and the APS_SDK can be used with Unity 2018.4.20f1 (for backwards compatibility with vrchat). *The APS_SDK is not compatible with Unity 2020!*
+	- Using Blender 2.8 is recommended, however 2.79 is mostly supported.
    </details>
 - **Can I import a custom avatar into LUXOR?**
   <details><summary>Yes, using the APS_SDK allows adding custom avatars.</summary>
-	The APS_SDK allows adding avatars to LUXOR using modles from either .fbx or .blend files: 
+	The APS_SDK allows adding avatars to LUXOR using models from either .fbx or .blend files: 
 	<p align="center">
 		<img width="15%" height="15%" src="http://i3.ytimg.com/vi/oEwkhIr4ffw/hqdefault.jpg">
 	</p>
