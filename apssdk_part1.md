@@ -68,7 +68,16 @@ There are two types of files that can be supplied as a source models when using 
 ## Avatars from **.fbx** models 
 Many humanoid models are supported by the APSSDK and can be built into mocap avatars and used in final rendering.
 
-
+<table>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+</table> 
 
 
 
