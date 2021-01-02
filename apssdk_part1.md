@@ -101,7 +101,7 @@ Many humanoid models are supported by the APSSDK and can be built into mocap ava
 
 
 
-<table>
+<table cellspacing="0" cellpadding="0">
   <tr>
     <th>
       <a href="img/avatar setup 1.png">
