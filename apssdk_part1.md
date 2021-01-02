@@ -106,11 +106,15 @@ Many humanoid models are supported by the APSSDK and can be built into mocap ava
       <a href="img/avatar setup 1.png">
          <img width="50%" src="img/avatar setup 1.png">
       </a>
+      <br>
+      <sub><sup>Select the Rig tab.</sup></sub>
     </th>
     <th>
       <a href="img/avatar setup 2.png">
          <img width="50%" src="img/avatar setup 2.png">
       </a>
+      <br>
+      <sub><sup>Set the rig type as Humanoid.</sup></sub>
     </th>
   </tr>
   <tr>
@@ -118,11 +122,15 @@ Many humanoid models are supported by the APSSDK and can be built into mocap ava
       <a href="img/avatar setup 3.png">
          <img width="50%" src="img/avatar setup 3.png">
       </a>
+      <br>
+      <sub><sup>Apply changes.</sup></sub>
     </th>
     <th>
       <a href="img/avatar setup 4.png">
          <img width="50%" src="img/avatar setup 4.png">
       </a>
+      <br>
+      <sub><sup>Click configure.</sup></sub>
     </th>
 </table> 
 
@@ -131,6 +139,8 @@ Many humanoid models are supported by the APSSDK and can be built into mocap ava
   <a href="img/avatar setup 5.png">
      <img width="50%" src="img/avatar setup 5.png">
   </a>
+  <br>
+  <sub><sup>Check that all required bones have been assigned and that the avatar is in a valid tpose.</sup></sub>
 </p>
 
 <div id="building-avatars-from-blend"></div>
