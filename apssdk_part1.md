@@ -61,12 +61,12 @@ After clicking Create and allowing the project to load locate and add the APS_SD
 
 
 The APS_SDK should now be installed in the new project. The next step is to build the actual humanoid avatar from a source model.
-There are two types of files that can be supplied as a source models when using the APS_SDK. The first type is .fbx which after being added to the project it is also required to configure the asset as a Humanoid and ensure that Unity's Humanoid configuration is properly mapped to the correct bones.
+There are two types of files that can be supplied as a source models when using the APS_SDK. The first type is .fbx which after being added to the project it is also required to configure the asset as a Humanoid and ensure that Unity's [Humanoid Configuration](https://docs.unity3d.com/Manual/AvatarCreationandSetup.html) is properly mapped to the correct bones.
 
 <div id="building-avatars-from-fbx"></div>
 
 ## Avatars from **.fbx** models 
-Many humanoid models are supported by the APSSDK and can be built into mocap avatars and used in final rendering. One essential step in creating any Unity avatar is to ensure that the .fbx is setup correctly in the Unity [humanoid configuration](https://docs.unity3d.com/Manual/AvatarCreationandSetup.html):
+Many humanoid models are supported by the APSSDK and can be built into mocap avatars and used in final rendering. One essential step in creating any Unity avatar is to ensure that the .fbx is setup correctly in the Unity [Humanoid Configuration](https://docs.unity3d.com/Manual/AvatarCreationandSetup.html):
 
 
 <p align="center">
