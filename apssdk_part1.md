@@ -103,7 +103,7 @@ Many humanoid models are supported by the APSSDK and can be built into mocap ava
 <table>
   <tr>
     <th>
-      Step 1.
+      Step 1.<br>
       <a href="img/avatar setup 1.png">
          <img width="50%" src="img/avatar setup 1.png">
       </a>
@@ -111,7 +111,7 @@ Many humanoid models are supported by the APSSDK and can be built into mocap ava
       <sub><sup>Select the rig tab.</sup></sub>
     </th>
     <th>
-      Step 2.
+      Step 2.<br>
       <a href="img/avatar setup 2.png">
          <img width="50%" src="img/avatar setup 2.png">
       </a>
@@ -121,7 +121,7 @@ Many humanoid models are supported by the APSSDK and can be built into mocap ava
   </tr>
   <tr>
     <th>
-      Step 3.
+      Step 3.<br>
       <a href="img/avatar setup 3.png">
          <img width="50%" src="img/avatar setup 3.png">
       </a>
@@ -129,7 +129,7 @@ Many humanoid models are supported by the APSSDK and can be built into mocap ava
       <sub><sup>Apply changes.</sup></sub>
     </th>
     <th>
-      Step 4.
+      Step 4.<br>
       <a href="img/avatar setup 4.png">
          <img width="50%" src="img/avatar setup 4.png">
       </a>
