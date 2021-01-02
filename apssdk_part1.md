@@ -68,33 +68,6 @@ There are two types of files that can be supplied as a source models when using 
 ## Avatars from **.fbx** models 
 Many humanoid models are supported by the APSSDK and can be built into mocap avatars and used in final rendering.
 
-<table>
-  <tr>
-    <th>
-      <a href="img/setup humanoid 1.png">
-         <img width="50%" src="img/setup humanoid 1.png">
-      </a>
-    </th>
-    <th>
-      <a href="img/setup humanoid 2.png">
-         <img width="50%" src="img/setup humanoid 2.png">
-      </a>
-    </th>
-  </tr>
-  <tr>
-    <th>
-      <a href="img/setup humanoid 3.png">
-         <img width="50%" src="img/setup humanoid 3.png">
-      </a>
-    </th>
-    <th>
-      <a href="img/setup humanoid 4.png">
-         <img width="50%" src="img/setup humanoid 4.png">
-      </a>
-    </th>
-  </tr>
-</table> 
-
 
 
 
@@ -127,6 +100,33 @@ Many humanoid models are supported by the APSSDK and can be built into mocap ava
 </p>
 
 
+
+<table>
+  <tr>
+    <th>
+      <a href="img/avatar setup 1.png">
+         <img width="50%" src="img/avatar setup 1.png">
+      </a>
+    </th>
+    <th>
+      <a href="img/avatar setup 2.png">
+         <img width="50%" src="img/avatar setup 2.png">
+      </a>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <a href="img/avatar setup 3.png">
+         <img width="50%" src="img/avatar setup 3.png">
+      </a>
+    </th>
+    <th>
+      <a href="img/avatar setup 4.png">
+         <img width="50%" src="img/avatar setup 4.png">
+      </a>
+    </th>
+  </tr>
+</table> 
 
 
 <div id="building-avatars-from-blend"></div>
