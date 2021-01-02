@@ -70,12 +70,12 @@ Many humanoid models are supported by the APSSDK and can be built into mocap ava
 
 <table>
   <tr>
-    <th>Month</th>
-    <th>Savings</th>
+    <th></th>
+    <th></th>
   </tr>
   <tr>
-    <td>January</td>
-    <td>$100</td>
+    <td></td>
+    <td></td>
   </tr>
 </table> 
 
