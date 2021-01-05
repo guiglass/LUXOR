@@ -96,7 +96,7 @@ Many humanoid models are supported by the APSSDK and can be built into mocap ava
      <img height="50%" src="img/AvatarIntro.jpg">
   </a>
   <br>
-  <sub><sup>One important step in creating any Unity avatar is to ensure that the .fbx is setup correctly in the Unity <a href="https://docs.unity3d.com/Manual/AvatarCreationandSetup.html">Humanoid Configuration]</a></sup></sub>
+  <sub><sup>One important step in creating any Unity avatar is to ensure that the .fbx is setup correctly in the Unity <a href="https://docs.unity3d.com/Manual/AvatarCreationandSetup.html">Humanoid Configuration</a></sup></sub>
 </p>
 
 
