@@ -18,7 +18,7 @@
 	</p>
    </details>
 - **Do I need trackers or can this be used with just controllers and an HMD?**
-  <details><summary>Trackers are optional. Avatars can be connected using only controllers and an HMD.</summary>
+  <details><summary>Trackers are optional. Avatars can be connected needing only controllers and an HMD.</summary>
 	🍎 There is basic locomotion for animating the avatar's lower body if no feet or hip trackers are preset or the avatar may be locked for standing or sitting in place. 
    </details>
 - **Can I mix VR hardware such as valve index controllers with a Vive headset?**
