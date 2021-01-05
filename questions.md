@@ -12,7 +12,7 @@
 
 - **Can I use LUXOR without a HMD?**
   <details><summary>Yes, Avatars may be connected to head trackers instead.</summary>
-	🍎 It is possible to connect the avatar to a head tracker without the need for an HMD. This can be accomplished by configuring a tracker to function as a head tracker in the Tracer Setup menu:
+	🍎 It is possible to connect the avatar to a head tracker without the need for an HMD. This can be accomplished by configuring a tracker to function as a head tracker in the Tracker Setup menu:
 	<p align="center">
 		<img width="15%" height="15%" src="/img/tracker setup.png"/>
 	</p>
