@@ -23,6 +23,7 @@ Here I will try to explain some of the features and techniques for getting start
 - [Adding Custom Avatars (APS SDK Part 1)](apssdk_part1.md)
 - [Adding Custom Props (APS SDK Part 2)](apssdk_part2.md)
 - [Adding Custom Worlds (APS SDK Part 3)](apssdk_part3.md)
+- [Privacy Policy](https://sites.google.com/view/bravecinema/privacy-policy)
 
 - License
 
