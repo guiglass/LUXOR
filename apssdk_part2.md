@@ -21,7 +21,7 @@ With a complete empty scene go ahead and add a sphere then give it a name.
 
 In this example I am modeling a (ITF) standard tennis ball which conforms to a diameter of 6.54cm.
 
-It is highly recomended that all models be to scale and that the scale be applied at (1,1,1) for all objects:
+It is highly recommended that all models be to scale and that the scale be applied at (1,1,1) for all objects:
 <p align="center">
   <a href="img/blender prop dimensions.png">
      <img width="75%" height="75%" src="img/blender prop dims.png">
