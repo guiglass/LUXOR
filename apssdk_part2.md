@@ -29,7 +29,7 @@ It is highly recommended that all models be to scale and that the scale be appli
   </a>
     <br>
 
-  <sub><sup>I have also unwrapped a basic UV texture onto the mesh to make it appear more like a tennis ball for adding immersion during mocap.<br> However it is not necessary to include textures at this step and texturing can be accomplished later on prior to final rendering.</sup></sub>
+  <sub><sup>I have also unwrapped a basic UV texture onto the mesh to make it appear more like a tennis ball for adding immersion during mocap.</sup></sub>
   </p>
 
 ## Creating a firearm prop
