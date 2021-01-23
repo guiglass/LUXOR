@@ -10,7 +10,7 @@
 ## Creating a simple prop:
 <p align="center">
   <a href="img/tennis ball dimensions.png">
-     <img width="50%" height="15%" src="img/tennis ball dimensions.png">
+     <img width="50%" height="25%" src="img/tennis ball dimensions.png">
   </a>
 
 
