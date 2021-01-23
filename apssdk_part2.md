@@ -12,7 +12,7 @@
 Ensure the prop is 
 <p align="center">
   <a href="img/blender prop dimensions.png">
-     <img width="75%" height="75%" src="img/blender prop dimensions.png">
+     <img width="75%" height="75%" src="img/blender prop dims.png">
   </a>
 
 
