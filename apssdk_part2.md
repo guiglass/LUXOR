@@ -25,11 +25,11 @@ In this example I am modeling a (ITF) standard tennis ball which conforms to a d
 It is highly recommended that all models be to scale and that the scale be applied at (1,1,1) for all objects:
 <p align="center">
   <a href="img/blender prop dimensions.png">
-     <img width="75%" height="75%" src="img/blender prop dims.png">
+     <img width="25%" height="25%" src="img/blender prop dims.png">
   </a>
     <br>
 
-  <sub><sup>I have also unwrapped a basic UV texture onto the sphere to make it appear more like a tennis ball for adding more immersion during mocap. However it is not necessary to include textures at this step and texturing can be accomplished later on prior to final rendering.</sup></sub>
+  <sub><sup>I have also unwrapped a basic UV texture onto the mesh to make it appear more like a tennis ball for adding immersion during mocap.<br> However it is not necessary to include textures at this step and texturing can be accomplished later on prior to final rendering.</sup></sub>
   </p>
 
 ## Creating a firearm prop
