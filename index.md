@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="/downloads.md">
-     <img src="https://www.mediafire.com/view/jk3i4lnajkp71gj/logo.png">
+     <img src="www.mediafire.com/view/jk3i4lnajkp71gj/logo.png/file">
   </a>
 </p>
 
