@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="/downloads.md">
-     <img src="http://www.mediafire.com/file/hmec2ssggyngld3/Luxor+Logo+Text.png">
+     <img src="https://www.mediafire.com/view/jk3i4lnajkp71gj/logo.png">
   </a>
 </p>
 
