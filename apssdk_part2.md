@@ -8,9 +8,11 @@
   </a>
 
 ## Creating a simple prop:
+
+Ensure the prop is 
 <p align="center">
-  <a href="img/tennis ball dimensions.png">
-     <img width="75%" height="75%" src="img/tennis ball dimensions.png">
+  <a href="img/blender prop dimensions.png">
+     <img width="75%" height="75%" src="img/blender prop dimensions.png">
   </a>
 
 
